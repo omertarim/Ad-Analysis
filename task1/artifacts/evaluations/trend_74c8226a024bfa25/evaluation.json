@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_74c8226a024bfa25",
+  "hook_strength_score": 7.2,
+  "first_seconds_strength_score": 7.5,
+  "royal_match_world_transferability_score": 7.0,
+  "player_intervention_score": 8.0,
+  "gameplay_bridge_score": 7.5,
+  "visual_clarity_score": 8.5,
+  "production_feasibility_score": 8.5,
+  "tonal_fit_score": 7.8,
+  "trend_transferability_score": 7.2,
+  "brand_safety_score": 9.5,
+  "context_dependency_risk": 2.5,
+  "audio_dependency_risk": 3.0,
+  "ip_or_identity_risk": 1.5,
+  "strengths": [
+    "Clear visual equation (A + B = C) format translates seamlessly into game item mixing or match mechanics.",
+    "High player intervention potential by allowing users to choose or combine funny ingredients.",
+    "Instantly generates curiosity and humor through unexpected results."
+  ],
+  "concerns": [
+    "Requires shift from real-world food tasting to animated royal kitchen or potion mixing concept."
+  ],
+  "rejection_reasons": [],
+  "adaptation_idea": "King Robert tests funny ingredient combinations in the castle kitchen, prompting the player to tap and match items to create the ultimate royal feast or escape potion.",
+  "evaluation_confidence": 0.9,
+  "overall_score": 7.32,
+  "adaptable": true
+}

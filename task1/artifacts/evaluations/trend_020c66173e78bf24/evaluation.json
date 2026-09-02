@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_020c66173e78bf24",
+  "hook_strength_score": 5.0,
+  "first_seconds_strength_score": 5.5,
+  "royal_match_world_transferability_score": 6.0,
+  "player_intervention_score": 4.0,
+  "gameplay_bridge_score": 5.0,
+  "visual_clarity_score": 6.5,
+  "production_feasibility_score": 8.0,
+  "tonal_fit_score": 6.5,
+  "trend_transferability_score": 5.0,
+  "brand_safety_score": 9.5,
+  "context_dependency_risk": 7.5,
+  "audio_dependency_risk": 8.0,
+  "ip_or_identity_risk": 1.0,
+  "strengths": [
+    "The concept of counting and bargaining over gold coins naturally aligns with Royal Match's treasure rewards.",
+    "Playful character interaction and humor fit the game's lighthearted visual tone."
+  ],
+  "concerns": [
+    "Original video relies heavily on Turkish dialogue and regional wedding cultural context.",
+    "Lacks immediate gameplay bridge or active player intervention in its native format."
+  ],
+  "rejection_reasons": [],
+  "adaptation_idea": "King Robert and a cheeky character playfully dispute over how to divide a pile of golden coins, leading directly into a match-3 puzzle where the player determines the winner.",
+  "evaluation_confidence": 0.85,
+  "overall_score": 4.89,
+  "adaptable": false
+}

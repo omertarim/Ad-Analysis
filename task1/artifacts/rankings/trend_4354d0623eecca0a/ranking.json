@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_4354d0623eecca0a",
+  "candidate_probability": 0.186667,
+  "candidate_rank": 7,
+  "selected_for_multimodal": true,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@yagmurgurbuuz/video/7679088830451830036",
+  "inference_features": {
+    "views": 1400000.0,
+    "likes": 84400.0,
+    "comments": 106.0,
+    "shares": 5291.0,
+    "saves": 2339.0,
+    "followers": 1067.0,
+    "video_age_days": 2.991383
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_618638305e52bcaa",
+  "hook_type": "text_and_spoken_comparison",
+  "hook_description": "Two women compare Istanbul and Karadeniz Turkish dialects using audio and text overlays.",
+  "first_2_seconds_description": "Two women in headscarves stand outdoors with a text header reading 'İstanbul Turkish - Karadeniz Turkish'.",
+  "visual_format": "talking_head_duo",
+  "ugc_style": true,
+  "pacing": "medium",
+  "primary_emotions": [
+    "amusement",
+    "interest"
+  ],
+  "scene_summary": "Two women take turns pronouncing common phrases in standard Istanbul Turkish versus Karadeniz dialect outdoors.",
+  "characters_count": 2,
+  "text_overlay_present": true,
+  "text_overlay_summary": "Header showing dialect titles and dynamic subtitles for each Turkish phrase spoken.",
+  "spoken_dialogue_present": true,
+  "spoken_dialogue_summary": "Speakers alternate repeating basic phrases in two different Turkish dialects.",
+  "reaction_present": false,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "dialect_comparison",
+  "audio_role": "spoken_dialogue",
+  "visual_dependency": "medium",
+  "audio_dependency": "high",
+  "analysis_confidence": 0.95
+}

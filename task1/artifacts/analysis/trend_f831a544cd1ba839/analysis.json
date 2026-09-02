@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_f831a544cd1ba839",
+  "hook_type": "Performance Hook",
+  "hook_description": "A street vendor sings enthusiastically while preparing treats to draw attention.",
+  "first_2_seconds_description": "A man wearing a plaid shirt and blue gloves handles sweet treats on wooden sticks while singing.",
+  "visual_format": "Vertical Video",
+  "ugc_style": true,
+  "pacing": "Medium",
+  "primary_emotions": [
+    "Joyful",
+    "Amused"
+  ],
+  "scene_summary": "An outdoor street vendor sings animatedly in Arabic while assembling traditional ice treats in a crate.",
+  "characters_count": 1,
+  "text_overlay_present": false,
+  "text_overlay_summary": null,
+  "spoken_dialogue_present": true,
+  "spoken_dialogue_summary": "Vendor sings and chants in Arabic while demonstrating food preparation.",
+  "reaction_present": false,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "Street food vendor vocal performance and demonstration.",
+  "audio_role": "Primary Performance",
+  "visual_dependency": "Medium",
+  "audio_dependency": "High",
+  "analysis_confidence": 0.95
+}

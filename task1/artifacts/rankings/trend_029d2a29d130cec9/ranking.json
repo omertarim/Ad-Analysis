@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_029d2a29d130cec9",
+  "candidate_probability": 0.266667,
+  "candidate_rank": 2,
+  "selected_for_multimodal": true,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@eminebrkz0/video/7678130019096382728",
+  "inference_features": {
+    "views": 2400000.0,
+    "likes": 179700.0,
+    "comments": 364.0,
+    "shares": 26400.0,
+    "saves": 6159.0,
+    "followers": 575.0,
+    "video_age_days": 5.575145
+  }
+}

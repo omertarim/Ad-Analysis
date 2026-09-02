@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_1f6bd399ad104218",
+  "hook_type": "Relatable Scenario",
+  "hook_description": "A man lies on a bed as the fitted sheet repeatedly touches and turns off his phone screen.",
+  "first_2_seconds_description": "A man lies on a mattress while his bed sheet folds over his phone screen, locking it.",
+  "visual_format": "Vertical POV video",
+  "ugc_style": true,
+  "pacing": "Medium",
+  "primary_emotions": [
+    "Frustration",
+    "Amusement"
+  ],
+  "scene_summary": "A man attempts to use his phone on a bed, but the loose sheet constantly brushes the screen and locks it.",
+  "characters_count": 1,
+  "text_overlay_present": true,
+  "text_overlay_summary": "Turkish POV text about bed sheets constantly locking the phone screen.",
+  "spoken_dialogue_present": false,
+  "spoken_dialogue_summary": null,
+  "reaction_present": true,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "Relatable everyday struggle depicted in a POV format.",
+  "audio_role": "Background Music",
+  "visual_dependency": "High",
+  "audio_dependency": "Low",
+  "analysis_confidence": 0.95
+}

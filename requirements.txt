@@ -1,0 +1,8 @@
+pydantic
+google-genai
+scikit-learn
+joblib
+numpy
+Pillow
+playwright
+pytest

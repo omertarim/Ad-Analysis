@@ -1,0 +1,10 @@
+{
+  "trend_id": "trend_2ef1b95426542700",
+  "source_url": "https://www.tiktok.com/@sofiaborodinaofficial/video/7676158186407152916",
+  "source_video_path": "task1/artifacts/raw/trend_2ef1b95426542700/source.mp4",
+  "analysis_artifact_path": "task1/artifacts/analysis/trend_2ef1b95426542700/analysis.json",
+  "evaluation_artifact_path": "task1/artifacts/evaluations/trend_2ef1b95426542700/evaluation.json",
+  "model": "gemini-3.6-flash",
+  "prompt_path": "task1/prompts/creative_evaluation.txt",
+  "evaluated_at": "2026-09-02T10:03:43.118773+00:00"
+}

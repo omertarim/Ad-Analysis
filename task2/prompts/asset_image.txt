@@ -1,0 +1,20 @@
+Create a single casual-mobile game asset from the brief below.
+
+Theme: {{THEME}}
+Art style: {{ART_STYLE}}
+Visual thesis: {{VISUAL_THESIS}}
+Role: {{ROLE_LABEL}} ({{ROLE_ID}})
+Concept: {{CONCEPT}}
+Direction: {{IMAGE_DIRECTION}}
+Canvas: {{WIDTH}}x{{HEIGHT}} px, aspect {{ASPECT_RATIO}}
+
+Hard rules:
+- Output one clean game asset, not a screenshot, collage, or UI mockup.
+- {{BACKGROUND_RULE}}
+- {{SILHOUETTE_RULE}}
+- {{ASPECT_RULE}}
+- {{TEXT_RULE}}
+- {{EXTRA_RULES}}
+- No extra characters, no watermark, no frame, no border around the canvas.
+- Glossy 3D casual mobile style, readable at small size, centered in frame.
+- Do not invent a different game, logo, or mechanic.

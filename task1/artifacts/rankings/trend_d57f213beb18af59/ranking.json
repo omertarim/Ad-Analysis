@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_d57f213beb18af59",
+  "candidate_probability": 0.236667,
+  "candidate_rank": 1,
+  "selected_for_multimodal": true,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@saffaamuuhamedd/video/7672878262111997204",
+  "inference_features": {
+    "views": 23500000.0,
+    "likes": 2400000.0,
+    "comments": 8314.0,
+    "shares": 71800.0,
+    "saves": 110400.0,
+    "followers": 2400000.0,
+    "video_age_days": 19.727587
+  }
+}

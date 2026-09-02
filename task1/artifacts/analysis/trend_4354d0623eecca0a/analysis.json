@@ -1,0 +1,30 @@
+{
+  "trend_id": "trend_4354d0623eecca0a",
+  "hook_type": "Relatable situation",
+  "hook_description": "Woman in formal henna gown holds a crying baby with humorous contrast text overlay.",
+  "first_2_seconds_description": "Camera pans to a woman in a glamorous red gown and crown holding a crying baby on her lap inside a living room.",
+  "visual_format": "Vertical video",
+  "ugc_style": true,
+  "pacing": "Medium",
+  "primary_emotions": [
+    "Amusement",
+    "Humor",
+    "Stress"
+  ],
+  "scene_summary": "A bride/aunt in full henna night attire sits on a couch comforting a crying toddler while recording herself.",
+  "characters_count": 3,
+  "text_overlay_present": true,
+  "text_overlay_summary": "Turkish text stating it is your henna night but you must take care of your niece/nephew.",
+  "spoken_dialogue_present": true,
+  "spoken_dialogue_summary": "Woman speaks soothingly and sings a Turkish song while the baby cries.",
+  "reaction_present": true,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "Relatable humorous contrast between fancy outfit and chaotic parenting task.",
+  "audio_role": "Background audio and dialogue driving humor.",
+  "visual_dependency": "High visual dependency on outfit and baby reaction.",
+  "audio_dependency": "High audio dependency due to baby crying and singing.",
+  "analysis_confidence": 0.95
+}

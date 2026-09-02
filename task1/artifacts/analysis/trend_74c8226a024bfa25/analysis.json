@@ -1,0 +1,31 @@
+{
+  "trend_id": "trend_74c8226a024bfa25",
+  "hook_type": "Challenge Demonstration",
+  "hook_description": "Man holds tomato and onion slices to test a viral flavor hack.",
+  "first_2_seconds_description": "A bearded man holds up a tomato slice and onion, then bites into both simultaneously.",
+  "visual_format": "Vertical UGC Talking Head",
+  "ugc_style": true,
+  "pacing": "Fast",
+  "primary_emotions": [
+    "Curiosity",
+    "Humor",
+    "Disgust",
+    "Surprise"
+  ],
+  "scene_summary": "A creator tests various viral food flavor combinations using emoji equations on screen.",
+  "characters_count": 1,
+  "text_overlay_present": true,
+  "text_overlay_summary": "Emoji equations displaying ingredient combinations and predicted flavor results.",
+  "spoken_dialogue_present": true,
+  "spoken_dialogue_summary": "Creator describes each food combo in Arabic and gives his opinion after tasting.",
+  "reaction_present": true,
+  "reveal_present": true,
+  "challenge_present": true,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "Food combination taste test",
+  "audio_role": "Primary Dialogue",
+  "visual_dependency": "High",
+  "audio_dependency": "High",
+  "analysis_confidence": 0.95
+}

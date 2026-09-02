@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_ec142160f6eaa42b",
+  "candidate_probability": 0.11,
+  "candidate_rank": 9,
+  "selected_for_multimodal": true,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@tatlikahvem1/video/7676927661909839112",
+  "inference_features": {
+    "views": 7300000.0,
+    "likes": 88800.0,
+    "comments": 794.0,
+    "shares": 24200.0,
+    "saves": 71300.0,
+    "followers": 9784.0,
+    "video_age_days": 8.815237
+  }
+}

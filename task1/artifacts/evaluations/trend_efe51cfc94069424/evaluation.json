@@ -1,0 +1,32 @@
+{
+  "trend_id": "trend_efe51cfc94069424",
+  "hook_strength_score": 4.0,
+  "first_seconds_strength_score": 4.2,
+  "royal_match_world_transferability_score": 2.5,
+  "player_intervention_score": 2.0,
+  "gameplay_bridge_score": 2.0,
+  "visual_clarity_score": 3.5,
+  "production_feasibility_score": 8.5,
+  "tonal_fit_score": 2.5,
+  "trend_transferability_score": 2.0,
+  "brand_safety_score": 7.5,
+  "context_dependency_risk": 8.5,
+  "audio_dependency_risk": 9.0,
+  "ip_or_identity_risk": 3.0,
+  "strengths": [
+    "High initial emotional intensity and direct camera address can capture quick attention.",
+    "Simple talking-head format is easy and cheap to produce."
+  ],
+  "concerns": [
+    "Format relies almost entirely on spoken dialogue rather than visual storytelling.",
+    "Dark and moody visual tone conflicts with Royal Match's bright, playful aesthetic."
+  ],
+  "rejection_reasons": [
+    "Heavy reliance on spoken audio monologue makes international translation and sound-off viewing difficult.",
+    "Lack of clear visual puzzle mechanic or actionable problem to bridge into gameplay."
+  ],
+  "adaptation_idea": "A character directly addresses the camera in a humorous, exaggerated panic about King Robert's impending castle disaster before gesturing to an interactive puzzle to fix it.",
+  "evaluation_confidence": 0.92,
+  "overall_score": 2.39,
+  "adaptable": false
+}

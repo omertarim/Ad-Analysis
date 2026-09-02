@@ -1,0 +1,18 @@
+{
+  "run_id": "run_20260902_095910",
+  "started_at": "2026-09-02T09:59:10.305329+00:00",
+  "completed_at": "2026-09-02T10:16:27.798147+00:00",
+  "region": "TR",
+  "discovery_rounds": 4,
+  "total_current_unique_discovered": 61,
+  "total_ml_selected": 31,
+  "total_analyzed": 30,
+  "total_evaluated": 30,
+  "total_adaptable": 8,
+  "total_rejected": 22,
+  "cache_hits": 0,
+  "failures": {
+    "trend_2f57d100d8c27e22": "upload_failure=503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The service is currently unavailable.', 'status': 'UNAVAILABLE'}}"
+  },
+  "runtime_seconds": 1037.5006
+}

@@ -1,0 +1,38 @@
+{
+  "trend_id": "trend_dc9b4e08aa3356b0",
+  "total_duration_seconds": 8.0,
+  "shots": [
+    {
+      "shot_number": 1,
+      "start_time": 0.0,
+      "end_time": 2.0,
+      "visual": "A person stands on an asphalt road as a black upright suitcase rolls toward them.",
+      "action": "Immediate visual hook with King Robert and visible danger.",
+      "text_overlay": "none"
+    },
+    {
+      "shot_number": 2,
+      "start_time": 2.0,
+      "end_time": 4.0,
+      "visual": "Danger escalates in the royal castle environment.",
+      "action": "Problem worsens fast and stakes become clear.",
+      "text_overlay": "none"
+    },
+    {
+      "shot_number": 3,
+      "start_time": 4.0,
+      "end_time": 6.0,
+      "visual": "Match-3 board appears as player intervention moment.",
+      "action": "Player makes decisive move to save King Robert.",
+      "text_overlay": "none"
+    },
+    {
+      "shot_number": 4,
+      "start_time": 6.0,
+      "end_time": 8.0,
+      "visual": "Successful rescue payoff with bright celebratory finish.",
+      "action": "King Robert stands in a castle hallway as a giant rolling barrel speeds toward him, prompting the player to quickly solve a puzzle to trigger a jump mechanic or block the path.",
+      "text_overlay": "none"
+    }
+  ]
+}

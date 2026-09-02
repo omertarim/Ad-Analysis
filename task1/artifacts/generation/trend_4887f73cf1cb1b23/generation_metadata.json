@@ -1,0 +1,16 @@
+{
+  "trend_id": "trend_4887f73cf1cb1b23",
+  "model": "veo-3.1-lite-generate-preview",
+  "operation_name": "models/veo-3.1-lite-generate-preview/operations/fby5o7799msp",
+  "generation_success": true,
+  "error": null,
+  "generated_at": "2026-09-02T10:17:13.210510+00:00",
+  "creative_brief_path": "task1/artifacts/generation/trend_4887f73cf1cb1b23/creative_brief.json",
+  "storyboard_path": "task1/artifacts/generation/trend_4887f73cf1cb1b23/storyboard.json",
+  "generation_prompt_path": "task1/artifacts/generation/trend_4887f73cf1cb1b23/generation_prompt.txt",
+  "final_video_path": "task1/artifacts/generation/trend_4887f73cf1cb1b23/final.mp4",
+  "inference_mode": "veo_generation",
+  "character_reference_used": false,
+  "generation_mode": "text_conditioned",
+  "model_used": "veo-3.1-lite-generate-preview"
+}

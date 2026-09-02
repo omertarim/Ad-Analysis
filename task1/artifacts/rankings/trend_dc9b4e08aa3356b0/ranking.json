@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_dc9b4e08aa3356b0",
+  "candidate_probability": 0.11,
+  "candidate_rank": 10,
+  "selected_for_multimodal": true,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@kirmizifrenkirmizibiraa/video/7677691084461378836",
+  "inference_features": {
+    "views": 2400000.0,
+    "likes": 80800.0,
+    "comments": 881.0,
+    "shares": 23500.0,
+    "saves": 4795.0,
+    "followers": 755.0,
+    "video_age_days": 6.757934
+  }
+}

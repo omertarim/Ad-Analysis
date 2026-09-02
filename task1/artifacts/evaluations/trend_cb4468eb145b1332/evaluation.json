@@ -1,0 +1,28 @@
+{
+  "trend_id": "trend_cb4468eb145b1332",
+  "hook_strength_score": 6.5,
+  "first_seconds_strength_score": 7.0,
+  "royal_match_world_transferability_score": 7.5,
+  "player_intervention_score": 7.0,
+  "gameplay_bridge_score": 7.0,
+  "visual_clarity_score": 8.0,
+  "production_feasibility_score": 8.5,
+  "tonal_fit_score": 7.5,
+  "trend_transferability_score": 7.5,
+  "brand_safety_score": 9.5,
+  "context_dependency_risk": 2.0,
+  "audio_dependency_risk": 2.0,
+  "ip_or_identity_risk": 1.0,
+  "strengths": [
+    "Dramatic visual zoom-out reveal creates immediate curiosity in the first seconds.",
+    "Easily translates to King Robert lying dramatically helpless on the castle floor amidst a funny dilemma."
+  ],
+  "concerns": [
+    "Slow pacing of the original trend needs to be accelerated to fit fast-paced user acquisition standards."
+  ],
+  "rejection_reasons": [],
+  "adaptation_idea": "Start with a close-up of King Robert lying dramatically defeated on the floor, then zoom out to reveal he is surrounded by castle debris and fire, triggering a prompt for the player to solve a puzzle and rescue him.",
+  "evaluation_confidence": 0.9,
+  "overall_score": 7.095,
+  "adaptable": true
+}

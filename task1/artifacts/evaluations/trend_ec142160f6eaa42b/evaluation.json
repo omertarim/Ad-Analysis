@@ -1,0 +1,30 @@
+{
+  "trend_id": "trend_ec142160f6eaa42b",
+  "hook_strength_score": 6.5,
+  "first_seconds_strength_score": 6.5,
+  "royal_match_world_transferability_score": 5.0,
+  "player_intervention_score": 5.5,
+  "gameplay_bridge_score": 5.0,
+  "visual_clarity_score": 8.0,
+  "production_feasibility_score": 7.0,
+  "tonal_fit_score": 5.5,
+  "trend_transferability_score": 6.0,
+  "brand_safety_score": 9.5,
+  "context_dependency_risk": 2.0,
+  "audio_dependency_risk": 2.0,
+  "ip_or_identity_risk": 1.0,
+  "strengths": [
+    "High visual engagement in first seconds with clear action",
+    "Strong hook framing using 'life hack / tactic' text overlay curiosity",
+    "Low audio or IP dependency makes it easily adaptable"
+  ],
+  "concerns": [
+    "Pure recipe content lacks immediate peril or problem state without custom adaptation",
+    "Transitioning from real-world cooking to match-3 gameplay can feel forced if not centered on a castle kitchen disaster"
+  ],
+  "rejection_reasons": [],
+  "adaptation_idea": "Show King Robert attempting a 'royal kitchen hack' that quickly catches fire, prompting the player to solve a Match-3 puzzle to extinguish the flames and save the feast.",
+  "evaluation_confidence": 0.9,
+  "overall_score": 5.82,
+  "adaptable": false
+}

@@ -1,0 +1,10 @@
+{
+  "trend_id": "trend_d30b691b917e5cc3",
+  "source_url": "https://www.tiktok.com/@razanko__55/video/7679424334435290388",
+  "source_video_path": "task1/artifacts/raw/trend_d30b691b917e5cc3/source.mp4",
+  "analysis_artifact_path": "task1/artifacts/analysis/trend_d30b691b917e5cc3/analysis.json",
+  "evaluation_artifact_path": "task1/artifacts/evaluations/trend_d30b691b917e5cc3/evaluation.json",
+  "model": "gemini-3.6-flash",
+  "prompt_path": "task1/prompts/creative_evaluation.txt",
+  "evaluated_at": "2026-09-02T10:09:25.422077+00:00"
+}

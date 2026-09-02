@@ -1,0 +1,30 @@
+{
+  "trend_id": "trend_92f0ad6c7e6e5744",
+  "hook_type": "high_energy_action",
+  "hook_description": "A man dances hyperactively with a rubber chicken in a chaotic room.",
+  "first_2_seconds_description": "A man holds a yellow squeaky chicken, dancing intensely while kids jump on the sofa.",
+  "visual_format": "vertical_video",
+  "ugc_style": true,
+  "pacing": "fast",
+  "primary_emotions": [
+    "humorous",
+    "energetic",
+    "joyful"
+  ],
+  "scene_summary": "A father dances wildly with a squeaky chicken toy while surrounding kids jump around the living room.",
+  "characters_count": 5,
+  "text_overlay_present": true,
+  "text_overlay_summary": "Turkish text describing husband's high energy when his own family visits.",
+  "spoken_dialogue_present": false,
+  "spoken_dialogue_summary": null,
+  "reaction_present": false,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "relatable_family_humor",
+  "audio_role": "soundtrack",
+  "visual_dependency": "high",
+  "audio_dependency": "medium",
+  "analysis_confidence": 0.95
+}

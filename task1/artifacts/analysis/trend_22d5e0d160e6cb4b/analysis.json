@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_22d5e0d160e6cb4b",
+  "hook_type": "Visual",
+  "hook_description": "A man in a suit enters behind a woman in a shop, making eye contact.",
+  "first_2_seconds_description": "A woman faces the camera in a store while a man in a suit approaches behind her.",
+  "visual_format": "Vertical Video",
+  "ugc_style": true,
+  "pacing": "Medium",
+  "primary_emotions": [
+    "Romance",
+    "Intrigue"
+  ],
+  "scene_summary": "In a cosmetics store, a man in a suit notices a woman who smiles back before walking away.",
+  "characters_count": 3,
+  "text_overlay_present": false,
+  "text_overlay_summary": null,
+  "spoken_dialogue_present": false,
+  "spoken_dialogue_summary": null,
+  "reaction_present": true,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "Visual lip-sync and acting scenario aligned with audio track.",
+  "audio_role": "Background Music",
+  "visual_dependency": "High",
+  "audio_dependency": "Medium",
+  "analysis_confidence": 0.95
+}

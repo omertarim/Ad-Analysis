@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_ec142160f6eaa42b",
+  "hook_type": "Textual Hook",
+  "hook_description": "Text overlay claims a cooking tactic learned at age 30 as raw chicken is placed in a pan.",
+  "first_2_seconds_description": "Gloved hands place raw chicken thighs into a skillet filled with oil and red pepper paste.",
+  "visual_format": "POV Cooking Video",
+  "ugc_style": true,
+  "pacing": "Fast",
+  "primary_emotions": [
+    "Curiosity",
+    "Appetite"
+  ],
+  "scene_summary": "Step-by-step pan-frying of seasoned chicken drumsticks, ending with shredding the cooked meat.",
+  "characters_count": 1,
+  "text_overlay_present": true,
+  "text_overlay_summary": "30 yaşında öğrendiğim taktik",
+  "spoken_dialogue_present": false,
+  "spoken_dialogue_summary": null,
+  "reaction_present": false,
+  "reveal_present": true,
+  "challenge_present": false,
+  "before_after_present": true,
+  "gameplay_present": false,
+  "trend_mechanic": "Recipe hack demonstration with text overlay hook",
+  "audio_role": "Background Music",
+  "visual_dependency": "High",
+  "audio_dependency": "Low",
+  "analysis_confidence": 0.95
+}

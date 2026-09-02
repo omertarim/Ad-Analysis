@@ -1,0 +1,1376 @@
+{
+  "theme": "jazz-concert",
+  "slug": "jazz-concert",
+  "model": "gemini-3.1-flash-image",
+  "unique_generations": 17,
+  "copied": 51,
+  "skipped_existing": 0,
+  "asset_count": 68,
+  "transparency_passed": 16,
+  "transparency_failed": 0,
+  "validation_retries": 3,
+  "alpha_recovered": 16,
+  "created_at": "2026-09-01T17:13:23.514697+00:00",
+  "assets": [
+    {
+      "theme": "jazz-concert",
+      "role_id": "match3_tiles",
+      "asset_id": "40474",
+      "source_dimensions": {
+        "width": 141,
+        "height": 141
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/40474.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D golden saxophone icon, front view, vibrant metallic shine, true transparent alpha background.",
+      "risk": "low",
+      "shared_generation": false,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Match-3 board icons (match3_tiles)\nConcept: A polished brass saxophone icon.\nDirection: Glossy 3D golden saxophone icon, front view, vibrant metallic shine, true transparent alpha background.\nCanvas: 141x141 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 141x141 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "match3_tiles",
+      "asset_id": "40296",
+      "source_dimensions": {
+        "width": 143,
+        "height": 134
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/40296.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D crimson red metallic trumpet icon, bold curves, shiny finish, true transparent alpha background.",
+      "risk": "low",
+      "shared_generation": false,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Match-3 board icons (match3_tiles)\nConcept: A glowing crimson trumpet icon.\nDirection: Glossy 3D crimson red metallic trumpet icon, bold curves, shiny finish, true transparent alpha background.\nCanvas: 143x134 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 143x134 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "match3_tiles",
+      "asset_id": "41918",
+      "source_dimensions": {
+        "width": 146,
+        "height": 145
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/41918.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D classic vintage gold microphone icon on a stand, studio lighting, true transparent alpha background.",
+      "risk": "low",
+      "shared_generation": false,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Match-3 board icons (match3_tiles)\nConcept: A shiny golden studio microphone icon.\nDirection: Glossy 3D classic vintage gold microphone icon on a stand, studio lighting, true transparent alpha background.\nCanvas: 146x145 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 146x145 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "match3_tiles",
+      "asset_id": "41826",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/41826.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D deep purple vinyl record with golden center label, shiny grooves, true transparent alpha background.",
+      "risk": "low",
+      "shared_generation": false,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Match-3 board icons (match3_tiles)\nConcept: A deep purple vinyl record icon.\nDirection: Glossy 3D deep purple vinyl record with golden center label, shiny grooves, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "match3_tiles",
+      "asset_id": "43332",
+      "source_dimensions": {
+        "width": 142,
+        "height": 142
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/43332.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D emerald green bass clef icon with neon bevel edges, polished finish, true transparent alpha background.",
+      "risk": "low",
+      "shared_generation": false,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Match-3 board icons (match3_tiles)\nConcept: An emerald green bass clef icon.\nDirection: Glossy 3D emerald green bass clef icon with neon bevel edges, polished finish, true transparent alpha background.\nCanvas: 142x142 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 142x142 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "match3_tiles",
+      "asset_id": "43744",
+      "source_dimensions": {
+        "width": 125,
+        "height": 126
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/43744.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D bright pink musical eighth notes icon, rounded plastic sheen, true transparent alpha background.",
+      "risk": "low",
+      "shared_generation": false,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Match-3 board icons (match3_tiles)\nConcept: A bright magenta eighth note pair icon.\nDirection: Glossy 3D bright pink musical eighth notes icon, rounded plastic sheen, true transparent alpha background.\nCanvas: 125x126 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 125x126 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "match3_tiles",
+      "asset_id": "39144",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/39144.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D elegant golden treble clef icon, sleek curves, sparkling highlights, true transparent alpha background.",
+      "risk": "low",
+      "shared_generation": false,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Match-3 board icons (match3_tiles)\nConcept: A golden treble clef icon.\nDirection: Glossy 3D elegant golden treble clef icon, sleek curves, sparkling highlights, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37442",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37442.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37444",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37444.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37446",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37446.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37448",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37448.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37450",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37450.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37452",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37452.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37454",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37454.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37456",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37456.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37458",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37458.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37460",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37460.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37462",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37462.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37464",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37464.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37466",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37466.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37468",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37468.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37470",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37470.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37472",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37472.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37474",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37474.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37476",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37476.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37478",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37478.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37480",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37480.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37482",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37482.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37484",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37484.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37486",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37486.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37488",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37488.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37490",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37490.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37492",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37492.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37494",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37494.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37496",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37496.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37498",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37498.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37500",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37500.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37502",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37502.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37504",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37504.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37506",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37506.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37508",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37508.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37510",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37510.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37512",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37512.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37514",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37514.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37516",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37516.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37518",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37518.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37520",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37520.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37522",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37522.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37524",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37524.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37526",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37526.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37528",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37528.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37530",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37530.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37532",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37532.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37534",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37534.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37536",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37536.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37538",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37538.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37540",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37540.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37542",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37542.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "falling_rocks",
+      "asset_id": "37544",
+      "source_dimensions": {
+        "width": 140,
+        "height": 140
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37544.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": true,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Physics rocks filling the chamber (falling_rocks)\nConcept: Chunky round snare drums made of polished brass and mahogany.\nDirection: Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.\nCanvas: 140x140 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 140x140 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "snake",
+      "asset_id": "37148",
+      "source_dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37148.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Top-down glossy 3D stylized snake head styled like a flared brass trombone with glowing purple eyes, centered in frame, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": false,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Threat creature (head + body scales) (snake)\nConcept: Snake head styled like a flared brass trombone bell with glowing purple eyes.\nDirection: Top-down glossy 3D stylized snake head styled like a flared brass trombone with glowing purple eyes, centered in frame, true transparent alpha background.\nCanvas: 512x512 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 512x512 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "snake",
+      "asset_id": "37150",
+      "source_dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37150.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Top-down glossy 3D metallic snake head with brass key ornaments and cyan glowing mouth, centered in frame, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": false,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Threat creature (head + body scales) (snake)\nConcept: Snake head variant with saxophone key ridges.\nDirection: Top-down glossy 3D metallic snake head with brass key ornaments and cyan glowing mouth, centered in frame, true transparent alpha background.\nCanvas: 512x512 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 512x512 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "snake",
+      "asset_id": "37152",
+      "source_dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37152.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Top-down glossy 3D brass snake head with golden crest, centered in frame, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": false,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Threat creature (head + body scales) (snake)\nConcept: Snake head variant with trumpet mouthpiece crown.\nDirection: Top-down glossy 3D brass snake head with golden crest, centered in frame, true transparent alpha background.\nCanvas: 512x512 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 512x512 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "snake",
+      "asset_id": "37146",
+      "source_dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37146.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Seamless repeating texture of dark purple vinyl record scales with brass trim highlights, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": false,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Threat creature (head + body scales) (snake)\nConcept: Snake body scales with vinyl record texture and gold trim.\nDirection: Seamless repeating texture of dark purple vinyl record scales with brass trim highlights, true transparent alpha background.\nCanvas: 512x512 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 512x512 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 1,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "wall_texture",
+      "asset_id": "37162",
+      "source_dimensions": {
+        "width": 627,
+        "height": 627
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37162.png",
+      "transparent_background": false,
+      "preserve_aspect": true,
+      "preserve_silhouette": false,
+      "image_direction": "Seamless full-bleed texture of dark violet smoky brickwork with subtle blue rim lighting, low visual noise, clean background texture.",
+      "risk": "low",
+      "shared_generation": false,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Tileable wall / soil texture (wall_texture)\nConcept: Smoky dark purple brick wall texture from an intimate jazz club.\nDirection: Seamless full-bleed texture of dark violet smoky brickwork with subtle blue rim lighting, low visual noise, clean background texture.\nCanvas: 627x627 px, aspect 1:1\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Full-bleed seamless game environment texture filling the entire frame. No empty margins and no transparency.\n- Fill the frame with a simple repeating material. No isolated object.\n- Use the requested canvas. The texture must fill the frame edge to edge.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Seamless and tileable on all four edges. Low visual noise; no high-frequency speckle or busy photo grain. Dark but readable. Game environment material only. No objects, no characters, no icons, no text, no frames.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": false
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "spike",
+      "asset_id": "37170",
+      "source_dimensions": {
+        "width": 39,
+        "height": 315
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37170.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Vertical tall thin brass and ebony double bass neck pin, straight vertical capsule silhouette, isolated on true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": false,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Dropping spike / pin (spike)\nConcept: A slender brass and ebony double bass neck.\nDirection: Vertical tall thin brass and ebony double bass neck pin, straight vertical capsule silhouette, isolated on true transparent alpha background.\nCanvas: 39x315 px, aspect 9:16\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 39x315 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "tutorial_hand",
+      "asset_id": "37558",
+      "source_dimensions": {
+        "width": 512,
+        "height": 256
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/37558.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Stylized 3D pointing hand wearing a white jazz performer glove with a shiny brass cuff, true transparent alpha background.",
+      "risk": "low",
+      "shared_generation": false,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Tutorial pointing hand (tutorial_hand)\nConcept: A white performer glove with a sleek gold wrist cuff pointing.\nDirection: Stylized 3D pointing hand wearing a white jazz performer glove with a shiny brass cuff, true transparent alpha background.\nCanvas: 512x256 px, aspect 16:9\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 512x256 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 1,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "cta_button",
+      "asset_id": "42896",
+      "source_dimensions": {
+        "width": 512,
+        "height": 220
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/42896.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "image_direction": "Wide rounded pill CTA button frame in deep violet with vibrant golden neon border lighting and glossy sheen, isolated on true transparent alpha background.",
+      "risk": "low",
+      "shared_generation": false,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Play / CTA pill background (cta_button)\nConcept: A neon-bordered dark violet pill button with glowing brass trim.\nDirection: Wide rounded pill CTA button frame in deep violet with vibrant golden neon border lighting and glossy sheen, isolated on true transparent alpha background.\nCanvas: 512x220 px, aspect 21:9\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep a silhouette close to a typical game sprite for this role: one centered object, similar mass and outline, no extreme elongation.\n- Keep the subject fitted to a 512x220 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- No text, letters, numbers, captions, or UI labels of any kind.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 0,
+      "alpha_recovered": true
+    },
+    {
+      "theme": "jazz-concert",
+      "role_id": "game_logo",
+      "asset_id": "43456",
+      "source_dimensions": {
+        "width": 450,
+        "height": 275
+      },
+      "output_path": "task2/artifacts/themes/jazz-concert/generated_assets/43456.png",
+      "transparent_background": true,
+      "preserve_aspect": true,
+      "preserve_silhouette": false,
+      "image_direction": "Glossy 3D Royal Kingdom game logo badge with brass frame and glowing cyan and gold typography reading ROYAL KINGDOM, true transparent alpha background.",
+      "risk": "medium",
+      "shared_generation": false,
+      "model": "gemini-3.1-flash-image",
+      "generation_prompt": "Create a single casual-mobile game asset from the brief below.\n\nTheme: jazz-concert\nArt style: Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.\nVisual thesis: A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.\nRole: Royal Kingdom badge logo (game_logo)\nConcept: Royal Kingdom logo badge styled like a marquee sign.\nDirection: Glossy 3D Royal Kingdom game logo badge with brass frame and glowing cyan and gold typography reading ROYAL KINGDOM, true transparent alpha background.\nCanvas: 450x275 px, aspect 3:2\n\nHard rules:\n- Output one clean game asset, not a screenshot, collage, or UI mockup.\n- Isolated game sprite on a TRUE transparent alpha background. Do not paint any backdrop. No checkerboard, no white background, no gray background, no black background, no floor, no scene.\n- Keep the subject centered with transparent margins.\n- Keep the subject fitted to a 450x275 sprite. Do not change the role's proportions. Leave transparent padding if needed.\n- The only allowed text is exactly \"ROYAL KINGDOM\". No other letters or numbers.\n- Never render a Photoshop-style checkerboard to imply transparency. Never put the subject on a square card, plate, or colored rectangle. No frame, no border, no drop shadow outside the sprite.\n- No extra characters, no watermark, no frame, no border around the canvas.\n- Glossy 3D casual mobile style, readable at small size, centered in frame.\n- Do not invent a different game, logo, or mechanic.\n",
+      "validation_retries": 1,
+      "alpha_recovered": true
+    }
+  ]
+}

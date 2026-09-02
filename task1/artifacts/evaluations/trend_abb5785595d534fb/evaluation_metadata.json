@@ -1,0 +1,10 @@
+{
+  "trend_id": "trend_abb5785595d534fb",
+  "source_url": "https://www.tiktok.com/@bilirkisiburak0/video/7677888793566858517",
+  "source_video_path": "task1/artifacts/raw/trend_abb5785595d534fb/source.mp4",
+  "analysis_artifact_path": "task1/artifacts/analysis/trend_abb5785595d534fb/analysis.json",
+  "evaluation_artifact_path": "task1/artifacts/evaluations/trend_abb5785595d534fb/evaluation.json",
+  "model": "gemini-3.6-flash",
+  "prompt_path": "task1/prompts/creative_evaluation.txt",
+  "evaluated_at": "2026-09-02T10:04:06.226822+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "trend_id": "trend_4f9b1e3ae43dbc1e",
+  "source_url": "https://www.tiktok.com/@ll.ays5e/video/7676923877368319240",
+  "source_video_path": "task1/artifacts/raw/trend_4f9b1e3ae43dbc1e/source.mp4",
+  "analysis_artifact_path": "task1/artifacts/analysis/trend_4f9b1e3ae43dbc1e/analysis.json",
+  "evaluation_artifact_path": "task1/artifacts/evaluations/trend_4f9b1e3ae43dbc1e/evaluation.json",
+  "model": "gemini-3.6-flash",
+  "prompt_path": "task1/prompts/creative_evaluation.txt",
+  "evaluated_at": "2026-09-02T10:13:25.456432+00:00"
+}

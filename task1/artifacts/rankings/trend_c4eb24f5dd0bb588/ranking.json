@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_c4eb24f5dd0bb588",
+  "candidate_probability": 0.076667,
+  "candidate_rank": 9,
+  "selected_for_multimodal": true,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@amero63/video/7671937488486714645",
+  "inference_features": {
+    "views": 2100000.0,
+    "likes": 88100.0,
+    "comments": 886.0,
+    "shares": 17400.0,
+    "saves": 5306.0,
+    "followers": 4183.0,
+    "video_age_days": 22.26276
+  }
+}

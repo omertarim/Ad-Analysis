@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_068b1a1cbdf8e816",
+  "hook_strength_score": 7.2,
+  "first_seconds_strength_score": 7.5,
+  "royal_match_world_transferability_score": 8.5,
+  "player_intervention_score": 8.0,
+  "gameplay_bridge_score": 7.8,
+  "visual_clarity_score": 8.5,
+  "production_feasibility_score": 9.0,
+  "tonal_fit_score": 8.5,
+  "trend_transferability_score": 7.0,
+  "brand_safety_score": 10.0,
+  "context_dependency_risk": 3.0,
+  "audio_dependency_risk": 4.0,
+  "ip_or_identity_risk": 1.0,
+  "strengths": [
+    "Universal wake-up prank concept translates well to Royal Match humor",
+    "King Robert sleeping setup creates immediate visual clarity and comedic tension",
+    "Direct path to player interaction through stopping the alarm or clearing obstacles"
+  ],
+  "concerns": [
+    "Original trend depends on a specific viral audio track that must be replaced with game-appropriate audio"
+  ],
+  "rejection_reasons": [],
+  "adaptation_idea": "King Robert is sleeping peacefully on his throne when a mischievous royal parrot plays a loud, funny sound right in his ear. Players must quickly solve a match-3 puzzle to silence the sound and help King Robert wake up safely.",
+  "evaluation_confidence": 0.9,
+  "overall_score": 7.635,
+  "adaptable": true
+}

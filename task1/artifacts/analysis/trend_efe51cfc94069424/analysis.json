@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_efe51cfc94069424",
+  "hook_type": "Direct Address",
+  "hook_description": "A man speaks intensely into the camera in a dark room.",
+  "first_2_seconds_description": "Close-up shot of a man passionately addressing the camera in low light.",
+  "visual_format": "Talking Head",
+  "ugc_style": true,
+  "pacing": "Fast",
+  "primary_emotions": [
+    "Frustration",
+    "Anger"
+  ],
+  "scene_summary": "A man holds the phone close to his face in a dark room and rants passionately in Turkish.",
+  "characters_count": 1,
+  "text_overlay_present": false,
+  "text_overlay_summary": null,
+  "spoken_dialogue_present": true,
+  "spoken_dialogue_summary": "Turkish monologue expressing emotional frustration.",
+  "reaction_present": true,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "Emotional Monologue",
+  "audio_role": "Main Dialogue",
+  "visual_dependency": "Medium",
+  "audio_dependency": "High",
+  "analysis_confidence": 0.95
+}

@@ -1,0 +1,30 @@
+{
+  "trend_id": "trend_bb7240737a364f7d",
+  "hook_strength_score": 4.5,
+  "first_seconds_strength_score": 5.0,
+  "royal_match_world_transferability_score": 7.0,
+  "player_intervention_score": 4.0,
+  "gameplay_bridge_score": 4.0,
+  "visual_clarity_score": 8.0,
+  "production_feasibility_score": 8.5,
+  "tonal_fit_score": 7.5,
+  "trend_transferability_score": 4.0,
+  "brand_safety_score": 10.0,
+  "context_dependency_risk": 3.0,
+  "audio_dependency_risk": 3.0,
+  "ip_or_identity_risk": 2.0,
+  "strengths": [
+    "Universally recognizable birthday celebration theme",
+    "Fits playful royal castle aesthetic easily",
+    "High production feasibility with standard 3D assets"
+  ],
+  "concerns": [
+    "Generic personal moment lacks high-stakes urgency for an ad hook",
+    "Requires adding an extra crisis element (like a cake fire) to create a natural transition to gameplay"
+  ],
+  "rejection_reasons": [],
+  "adaptation_idea": "King Robert celebrates his birthday with a giant cake, but blowing out the candles accidentally sets the royal banner on fire. Players must match puzzle tiles to extinguish the flames and save the birthday feast.",
+  "evaluation_confidence": 0.9,
+  "overall_score": 5.145,
+  "adaptable": false
+}

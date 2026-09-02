@@ -1,0 +1,32 @@
+{
+  "trend_id": "trend_4354d0623eecca0a",
+  "hook_strength_score": 5.0,
+  "first_seconds_strength_score": 6.0,
+  "royal_match_world_transferability_score": 5.0,
+  "player_intervention_score": 4.0,
+  "gameplay_bridge_score": 3.5,
+  "visual_clarity_score": 7.0,
+  "production_feasibility_score": 7.0,
+  "tonal_fit_score": 6.0,
+  "trend_transferability_score": 3.5,
+  "brand_safety_score": 9.0,
+  "context_dependency_risk": 8.0,
+  "audio_dependency_risk": 7.5,
+  "ip_or_identity_risk": 2.0,
+  "strengths": [
+    "Strong visual contrast between high status/glamour and chaotic interruption.",
+    "Relatable humorous premise of being distracted during a big moment."
+  ],
+  "concerns": [
+    "High dependency on localized cultural context and Turkish text overlay.",
+    "Difficult to translate directly into interactive gameplay mechanics."
+  ],
+  "rejection_reasons": [
+    "High context and audio dependency limits global performance ad transferability.",
+    "Weak and forced bridge to Royal Match puzzle gameplay."
+  ],
+  "adaptation_idea": "King Robert attempts to hold a regal crown ceremony while chaotic palace tasks force players to step in and solve puzzles to keep the peace.",
+  "evaluation_confidence": 0.9,
+  "overall_score": 4.26,
+  "adaptable": false
+}

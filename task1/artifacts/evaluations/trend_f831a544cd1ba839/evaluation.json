@@ -1,0 +1,32 @@
+{
+  "trend_id": "trend_f831a544cd1ba839",
+  "hook_strength_score": 4.0,
+  "first_seconds_strength_score": 4.0,
+  "royal_match_world_transferability_score": 2.0,
+  "player_intervention_score": 2.0,
+  "gameplay_bridge_score": 2.0,
+  "visual_clarity_score": 5.0,
+  "production_feasibility_score": 5.0,
+  "tonal_fit_score": 3.0,
+  "trend_transferability_score": 2.0,
+  "brand_safety_score": 8.5,
+  "context_dependency_risk": 8.5,
+  "audio_dependency_risk": 9.0,
+  "ip_or_identity_risk": 7.5,
+  "strengths": [
+    "Energetic vocal delivery",
+    "High engagement on original platform"
+  ],
+  "concerns": [
+    "Lacks a puzzle, rescue, or problem-solving structure",
+    "Difficult to integrate player intervention"
+  ],
+  "rejection_reasons": [
+    "Heavy reliance on specific regional language spoken dialogue and creator persona",
+    "No natural visual or narrative bridge to Royal Match gameplay mechanics"
+  ],
+  "adaptation_idea": null,
+  "evaluation_confidence": 0.95,
+  "overall_score": 1.955,
+  "adaptable": false
+}

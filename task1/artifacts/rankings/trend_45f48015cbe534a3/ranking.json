@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_45f48015cbe534a3",
+  "candidate_probability": 0.02,
+  "candidate_rank": 16,
+  "selected_for_multimodal": false,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@okx1x/video/7676862897896639761",
+  "inference_features": {
+    "views": 3100000.0,
+    "likes": 36600.0,
+    "comments": 641.0,
+    "shares": 485.0,
+    "saves": 1976.0,
+    "followers": 1700000.0,
+    "video_age_days": 8.989485
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_4ffbb8f1eaa3ee45",
+  "candidate_probability": 0.06,
+  "candidate_rank": 16,
+  "selected_for_multimodal": false,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@rdvan.sah/video/7675812002991852821",
+  "inference_features": {
+    "views": 4000000.0,
+    "likes": 68100.0,
+    "comments": 1714.0,
+    "shares": 11900.0,
+    "saves": 5173.0,
+    "followers": 756100.0,
+    "video_age_days": 11.821661
+  }
+}

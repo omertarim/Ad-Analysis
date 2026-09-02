@@ -1,0 +1,31 @@
+{
+  "trend_id": "trend_ea63f43ea99e77f4",
+  "hook_strength_score": 5.0,
+  "first_seconds_strength_score": 5.0,
+  "royal_match_world_transferability_score": 3.0,
+  "player_intervention_score": 2.0,
+  "gameplay_bridge_score": 2.0,
+  "visual_clarity_score": 7.0,
+  "production_feasibility_score": 6.0,
+  "tonal_fit_score": 3.0,
+  "trend_transferability_score": 3.0,
+  "brand_safety_score": 8.0,
+  "context_dependency_risk": 6.0,
+  "audio_dependency_risk": 7.0,
+  "ip_or_identity_risk": 2.0,
+  "strengths": [
+    "Rapid visual counting provides immediate visual satisfaction and curiosity."
+  ],
+  "concerns": [
+    "Lacks active player intervention or immediate problem/danger for King Robert.",
+    "Strong dependence on specific spoken dialogue/audio commentary."
+  ],
+  "rejection_reasons": [
+    "Weak gameplay bridge to match-3 puzzle mechanics.",
+    "Poor alignment with Royal Match narrative world and core game hooks."
+  ],
+  "adaptation_idea": "Animate a royal treasure machine rapidly counting King Robert's gold coins until it jams, forcing the player to solve a puzzle to clear the blockage.",
+  "evaluation_confidence": 0.9,
+  "overall_score": 3.15,
+  "adaptable": false
+}

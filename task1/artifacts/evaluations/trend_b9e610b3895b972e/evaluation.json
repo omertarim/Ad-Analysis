@@ -1,0 +1,30 @@
+{
+  "trend_id": "trend_b9e610b3895b972e",
+  "hook_strength_score": 3.0,
+  "first_seconds_strength_score": 3.0,
+  "royal_match_world_transferability_score": 2.0,
+  "player_intervention_score": 2.0,
+  "gameplay_bridge_score": 2.0,
+  "visual_clarity_score": 5.0,
+  "production_feasibility_score": 6.0,
+  "tonal_fit_score": 3.0,
+  "trend_transferability_score": 2.0,
+  "brand_safety_score": 9.0,
+  "context_dependency_risk": 8.5,
+  "audio_dependency_risk": 8.0,
+  "ip_or_identity_risk": 2.0,
+  "strengths": [
+    "Celebratory tone and clear step-by-step visual preparation sequence."
+  ],
+  "concerns": [
+    "Heavy reliance on spoken Arabic audio and local cultural context."
+  ],
+  "rejection_reasons": [
+    "Vlog format depends heavily on spoken audio monologue with no direct problem-solving or clear gameplay hook.",
+    "Mechanic lacks natural transition into Royal Match puzzle gameplay."
+  ],
+  "adaptation_idea": null,
+  "evaluation_confidence": 0.9,
+  "overall_score": 2.195,
+  "adaptable": false
+}

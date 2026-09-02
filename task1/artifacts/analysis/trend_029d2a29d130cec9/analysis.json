@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_029d2a29d130cec9",
+  "hook_type": "Text Overlay Hook",
+  "hook_description": "Text overlay and chat graphic describe searching for a mother on a live TV broadcast.",
+  "first_2_seconds_description": "A silhouette stands in front of a TV showing Mecca while chat and text overlays appear.",
+  "visual_format": "Vertical UGC with graphic overlays",
+  "ugc_style": true,
+  "pacing": "Medium",
+  "primary_emotions": [
+    "Humorous",
+    "Amused"
+  ],
+  "scene_summary": "A person inspects a live TV feed of Mecca to spot their mother based on text messages.",
+  "characters_count": 1,
+  "text_overlay_present": true,
+  "text_overlay_summary": "Turkish text describing a joke about finding mom on TV alongside a chat screenshot.",
+  "spoken_dialogue_present": true,
+  "spoken_dialogue_summary": "Female voice speaking Turkish while laughing off-camera.",
+  "reaction_present": true,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "Relatable family humor using chat logs and real-time visual setup.",
+  "audio_role": "Background laughter and commentary",
+  "visual_dependency": "High",
+  "audio_dependency": "Low",
+  "analysis_confidence": 0.95
+}

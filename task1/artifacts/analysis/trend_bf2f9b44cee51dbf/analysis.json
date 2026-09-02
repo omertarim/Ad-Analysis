@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_bf2f9b44cee51dbf",
+  "hook_type": "Relatable Situation",
+  "hook_description": "Text overlay describes cooking at 5 AM for a hungry sibling while showing selfie-style cooking.",
+  "first_2_seconds_description": "Young woman films selfie-style while flipping food in a frying pan on a stove.",
+  "visual_format": "Vertical Selfie Vlog",
+  "ugc_style": true,
+  "pacing": "Medium",
+  "primary_emotions": [
+    "Amusement",
+    "Affection"
+  ],
+  "scene_summary": "A girl cooks late-night food for her sibling resting in the background living room area.",
+  "characters_count": 2,
+  "text_overlay_present": true,
+  "text_overlay_summary": "Turkish text stating sibling is hungry at 5 AM and she is the older sister.",
+  "spoken_dialogue_present": false,
+  "spoken_dialogue_summary": null,
+  "reaction_present": true,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "Relatable late-night POV audio-backed vlog",
+  "audio_role": "Background Music",
+  "visual_dependency": "High",
+  "audio_dependency": "Low",
+  "analysis_confidence": 0.95
+}

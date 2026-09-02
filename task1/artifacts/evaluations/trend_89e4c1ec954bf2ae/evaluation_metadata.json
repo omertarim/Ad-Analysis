@@ -1,0 +1,10 @@
+{
+  "trend_id": "trend_89e4c1ec954bf2ae",
+  "source_url": "https://www.tiktok.com/@nuran.ahin11/video/7677922247532645653",
+  "source_video_path": "task1/artifacts/raw/trend_89e4c1ec954bf2ae/source.mp4",
+  "analysis_artifact_path": "task1/artifacts/analysis/trend_89e4c1ec954bf2ae/analysis.json",
+  "evaluation_artifact_path": "task1/artifacts/evaluations/trend_89e4c1ec954bf2ae/evaluation.json",
+  "model": "gemini-3.6-flash",
+  "prompt_path": "task1/prompts/creative_evaluation.txt",
+  "evaluated_at": "2026-09-02T10:13:04.516775+00:00"
+}

@@ -1,0 +1,166 @@
+{
+  "theme": "türkiye",
+  "visual_thesis": "A vibrant celebration of Turkish culture, combining rich Ottoman gold filigree, famous Iznik ceramic tilework, and iconic symbols like the Nazar eye, Turkish tea, and fairy chimneys.",
+  "art_style": "Glossy 3D casual mobile style with rich textures, polished gold highlights, and vibrant crimson and turquoise hues.",
+  "palette": [
+    "#E30A17",
+    "#FFFFFF",
+    "#D4AF37",
+    "#003399",
+    "#40E0D0",
+    "#C86446",
+    "#8C6239"
+  ],
+  "banner": {
+    "text": "SAVE THE KING IN ANCIENT TURKEY!",
+    "text_color": "#FFFFFF",
+    "background_color": "#E30A17"
+  },
+  "overrides": {
+    "soil_color": "#8C6239",
+    "separator_wall_color": "#D4AF37",
+    "rock_colors": [
+      "#E30A17",
+      "#D4AF37",
+      "#003399",
+      "#40E0D0"
+    ]
+  },
+  "roles": [
+    {
+      "role_id": "match3_tiles",
+      "concept": "Iconic Turkish cultural elements and delicacies recreated as distinct, vibrant 3D mobile game icons.",
+      "image_direction": "Set of standalone 3D casual visual icons representing Turkish heritage, with polished glossy surfaces and rich colors, each isolated on a true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "40474",
+          "concept": "Iznik Ceramic Mosque Dome",
+          "image_direction": "Glossy 3D Iznik blue ceramic mosque dome icon topped with a shiny gold crescent finial, isolated on a true transparent alpha background."
+        },
+        {
+          "asset_id": "40296",
+          "concept": "Traditional Red Fez Hat",
+          "image_direction": "Vibrant red velvet Turkish Fez hat with a silky black tassel, rendered in glossy 3D casual mobile game style, isolated on a true transparent alpha background."
+        },
+        {
+          "asset_id": "41918",
+          "concept": "Golden Crescent Star Emblem",
+          "image_direction": "Polished gold Turkish crescent and star emblem with embedded rubies, 3D game tile icon, isolated on a true transparent alpha background."
+        },
+        {
+          "asset_id": "41826",
+          "concept": "Nazar Evil Eye Amulet",
+          "image_direction": "Glossy glass Nazar evil eye amulet featuring concentric rings of deep cobalt blue, turquoise, white, and black, isolated on a true transparent alpha background."
+        },
+        {
+          "asset_id": "43332",
+          "concept": "Turkish Tea Tulip Glass",
+          "image_direction": "Stylized tulip-shaped glass of dark red Turkish tea resting on a patterned saucer with green mint, 3D glossy mobile icon, isolated on a true transparent alpha background."
+        },
+        {
+          "asset_id": "43744",
+          "concept": "Ottoman Pink Tulip Blossom",
+          "image_direction": "Elegant stylized Turkish tulip flower with bright pink petals and gold accents, 3D casual mobile asset, isolated on a true transparent alpha background."
+        },
+        {
+          "asset_id": "39144",
+          "concept": "Dusty Turkish Delight Cube",
+          "image_direction": "Square rose-pink Turkish delight cube dusted with powdered sugar and topped with chopped pistachio, 3D glossy mobile icon, isolated on a true transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "falling_rocks",
+      "concept": "Chunky Cappadocian tuff boulders carved with ancient Anatolian reliefs.",
+      "image_direction": "Chunky round Cappadocian tuff sandstone rock boulders decorated with subtle Ottoman geometric patterns, 3D casual mobile render, isolated on a true transparent alpha background.",
+      "assets": []
+    },
+    {
+      "role_id": "snake",
+      "concept": "An ornate Turkish Anatolian viper adorned with turquoise ceramic scales.",
+      "image_direction": "Top-down view of an Anatolian viper reptile featuring glossy turquoise and cobalt blue ceramic scales with gold highlights, isolated on a true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "37148",
+          "concept": "Turquoise Viper Head Rest",
+          "image_direction": "Top-down view of a viper head with vibrant turquoise scales, golden crown crest, and focused dark eyes, isolated on a true transparent alpha background."
+        },
+        {
+          "asset_id": "37150",
+          "concept": "Turquoise Viper Head Open Jaw",
+          "image_direction": "Top-down view of a viper head with open mouth showing fangs, decorated with gold filigree and blue scales, isolated on a true transparent alpha background."
+        },
+        {
+          "asset_id": "37152",
+          "concept": "Turquoise Viper Head Hissing",
+          "image_direction": "Top-down view of a viper head with flicked red tongue, high detail 3D render, isolated on a true transparent alpha background."
+        },
+        {
+          "asset_id": "37146",
+          "concept": "Viper Body Ceramic Scale Pattern",
+          "image_direction": "Seamless texture strip of overlapping Turkish turquoise ceramic snake scales with polished gold edges."
+        }
+      ]
+    },
+    {
+      "role_id": "wall_texture",
+      "concept": "Traditional Iznik blue tile museum wall pattern.",
+      "image_direction": "Tileable seamless full-bleed texture of dark blue and teal Ottoman Iznik ceramic wall tiles with subtle low-contrast arabesque patterns, low visual noise, no objects or text.",
+      "assets": [
+        {
+          "asset_id": "37162",
+          "concept": "Iznik Tile Seamless Background Wall",
+          "image_direction": "Tileable seamless full-bleed texture of dark blue and teal Ottoman Iznik ceramic wall tiles with subtle low-contrast arabesque patterns, low visual noise, no objects or text."
+        }
+      ]
+    },
+    {
+      "role_id": "spike",
+      "concept": "Ornate Ottoman brass skewer.",
+      "image_direction": "Tall thin brass Turkish skewer pin with a pointed tip and decorative golden filigree top handle, vertical capsule silhouette, isolated on a true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "37170",
+          "concept": "Brass Skewer Spike Pin",
+          "image_direction": "Tall thin brass Turkish skewer pin with a pointed tip and decorative golden filigree top handle, vertical capsule silhouette, isolated on a true transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "tutorial_hand",
+      "concept": "Pointing tutorial hand with an Ottoman velvet embroidered cuff.",
+      "image_direction": "3D casual mobile style hand pointing right, wearing a rich red velvet sleeve cuff embroidered with gold Ottoman filigree patterns, isolated on a true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "37558",
+          "concept": "Ottoman Embroidered Tutorial Hand",
+          "image_direction": "3D casual mobile style hand pointing right, wearing a rich red velvet sleeve cuff embroidered with gold Ottoman filigree patterns, isolated on a true transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "cta_button",
+      "concept": "Crimson red pill button framed in Ottoman gold.",
+      "image_direction": "Wide rounded pill button in deep Turkish crimson red framed with an ornate shiny gold filigree border and subtle inner lighting, isolated on a true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "42896",
+          "concept": "Turkish Red and Gold Pill Button",
+          "image_direction": "Wide rounded pill button in deep Turkish crimson red framed with an ornate shiny gold filigree border and subtle inner lighting, isolated on a true transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "game_logo",
+      "concept": "Royal Kingdom badge framed in Turkish gold filigree.",
+      "image_direction": "Royal Kingdom game logo badge restyled with an ornate golden Turkish frame and deep blue background, bold white text reading ROYAL KINGDOM, isolated on a true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "43456",
+          "concept": "Turkish Styled Royal Kingdom Logo",
+          "image_direction": "Royal Kingdom game logo badge restyled with an ornate golden Turkish frame and deep blue background, bold white text reading ROYAL KINGDOM, isolated on a true transparent alpha background."
+        }
+      ]
+    }
+  ]
+}

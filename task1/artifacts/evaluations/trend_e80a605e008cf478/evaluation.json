@@ -1,0 +1,32 @@
+{
+  "trend_id": "trend_e80a605e008cf478",
+  "hook_strength_score": 4.0,
+  "first_seconds_strength_score": 4.0,
+  "royal_match_world_transferability_score": 2.0,
+  "player_intervention_score": 2.0,
+  "gameplay_bridge_score": 2.0,
+  "visual_clarity_score": 5.0,
+  "production_feasibility_score": 6.0,
+  "tonal_fit_score": 3.0,
+  "trend_transferability_score": 3.0,
+  "brand_safety_score": 9.0,
+  "context_dependency_risk": 7.5,
+  "audio_dependency_risk": 8.5,
+  "ip_or_identity_risk": 2.0,
+  "strengths": [
+    "Clear visual contrast between character reactions",
+    "Relatable domestic friction setup"
+  ],
+  "concerns": [
+    "Heavy reliance on Turkish spoken dialogue",
+    "Does not naturally prompt player action or puzzle-solving"
+  ],
+  "rejection_reasons": [
+    "High dependency on language-specific audio dialogue",
+    "Weak natural bridge to Royal Match gameplay mechanics"
+  ],
+  "adaptation_idea": "Recreate the 'ignoring a desperate plea' dynamic visually by having a castle guard calmly polish armor while King Robert struggles in the background, prompting a puzzle to rescue him.",
+  "evaluation_confidence": 0.9,
+  "overall_score": 2.58,
+  "adaptable": false
+}

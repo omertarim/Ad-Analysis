@@ -1,0 +1,101 @@
+{
+  "theme": "football",
+  "slug": "football",
+  "html": "task2/outputs/football.html",
+  "created_at": "2026-09-01T16:49:17.090610+00:00",
+  "page_loaded": true,
+  "console_errors": [],
+  "page_errors": [],
+  "interactions_attempted": [
+    {
+      "name": "canvas_tap_1",
+      "x": 360.0,
+      "y": 1024.0
+    },
+    {
+      "name": "canvas_tap_2",
+      "x": 259.2,
+      "y": 998.4
+    },
+    {
+      "name": "canvas_tap_3",
+      "x": 460.8,
+      "y": 998.4
+    },
+    {
+      "name": "canvas_tap_4",
+      "x": 360.0,
+      "y": 768.0
+    }
+  ],
+  "screenshots": {
+    "initial": "task2/artifacts/themes/football/screenshots/initial.png",
+    "after_interaction": "task2/artifacts/themes/football/screenshots/after_interaction.png",
+    "final": "task2/artifacts/themes/football/screenshots/final.png"
+  },
+  "canvas_present": true,
+  "preloader_cleared": true,
+  "canvas_size": {
+    "width": 720,
+    "height": 1280
+  },
+  "playability_pass": true,
+  "visual_pass": true,
+  "interaction_state_changed": true,
+  "visual": [
+    {
+      "label": "initial",
+      "path": "task2/artifacts/themes/football/screenshots/initial.png",
+      "black_ratio": 0.1274,
+      "white_ratio": 0.0142,
+      "magenta_ratio": 0.0,
+      "white_blob_ratio": 0.0018,
+      "luminance_std": 52.81,
+      "unique_colors_sampled": 645,
+      "checks": {
+        "mostly_black": false,
+        "asset_load_failure_marker": false,
+        "gameplay_area_visible": true,
+        "large_white_block": false
+      },
+      "pass": true
+    },
+    {
+      "label": "after_interaction",
+      "path": "task2/artifacts/themes/football/screenshots/after_interaction.png",
+      "black_ratio": 0.127,
+      "white_ratio": 0.0143,
+      "magenta_ratio": 0.0,
+      "white_blob_ratio": 0.0018,
+      "luminance_std": 52.92,
+      "unique_colors_sampled": 645,
+      "checks": {
+        "mostly_black": false,
+        "asset_load_failure_marker": false,
+        "gameplay_area_visible": true,
+        "large_white_block": false
+      },
+      "pass": true
+    },
+    {
+      "label": "final",
+      "path": "task2/artifacts/themes/football/screenshots/final.png",
+      "black_ratio": 0.1269,
+      "white_ratio": 0.0143,
+      "magenta_ratio": 0.0,
+      "white_blob_ratio": 0.0018,
+      "luminance_std": 52.8,
+      "unique_colors_sampled": 658,
+      "checks": {
+        "mostly_black": false,
+        "asset_load_failure_marker": false,
+        "gameplay_area_visible": true,
+        "large_white_block": false
+      },
+      "pass": true
+    }
+  ],
+  "vlm": null,
+  "overall_pass": true,
+  "notes": []
+}

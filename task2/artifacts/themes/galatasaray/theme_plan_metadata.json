@@ -1,0 +1,21 @@
+{
+  "theme": "Galatasaray",
+  "slug": "galatasaray",
+  "model": "gemini-3.6-flash",
+  "prompt_path": "task2/prompts/theme_plan.txt",
+  "roles_path": "task2/inventory/roles.json",
+  "planned_roles": [
+    "match3_tiles",
+    "falling_rocks",
+    "snake",
+    "wall_texture",
+    "spike",
+    "tutorial_hand",
+    "cta_button",
+    "game_logo"
+  ],
+  "excluded_high_risk_roles": [
+    "king_atlas"
+  ],
+  "created_at": "2026-09-01T17:15:24.865288+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "trend_id": "trend_ec142160f6eaa42b",
+  "source_url": "https://www.tiktok.com/@tatlikahvem1/video/7676927661909839112",
+  "source_video_path": "task1/artifacts/raw/trend_ec142160f6eaa42b/source.mp4",
+  "analysis_artifact_path": "task1/artifacts/analysis/trend_ec142160f6eaa42b/analysis.json",
+  "evaluation_artifact_path": "task1/artifacts/evaluations/trend_ec142160f6eaa42b/evaluation.json",
+  "model": "gemini-3.6-flash",
+  "prompt_path": "task1/prompts/creative_evaluation.txt",
+  "evaluated_at": "2026-09-02T10:14:55.856541+00:00"
+}

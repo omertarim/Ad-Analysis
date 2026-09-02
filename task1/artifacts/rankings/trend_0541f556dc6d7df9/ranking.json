@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_0541f556dc6d7df9",
+  "candidate_probability": 0.073333,
+  "candidate_rank": 11,
+  "selected_for_multimodal": false,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@mesut_kara0/video/7677930424194059541",
+  "inference_features": {
+    "views": 1400000.0,
+    "likes": 27100.0,
+    "comments": 135.0,
+    "shares": 23900.0,
+    "saves": 3409.0,
+    "followers": 944.0,
+    "video_age_days": 6.113061
+  }
+}

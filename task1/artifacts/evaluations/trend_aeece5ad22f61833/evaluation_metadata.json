@@ -1,0 +1,10 @@
+{
+  "trend_id": "trend_aeece5ad22f61833",
+  "source_url": "https://www.tiktok.com/@ben.kakao.sevmem/video/7675664210466196754",
+  "source_video_path": "task1/artifacts/raw/trend_aeece5ad22f61833/source.mp4",
+  "analysis_artifact_path": "task1/artifacts/analysis/trend_aeece5ad22f61833/analysis.json",
+  "evaluation_artifact_path": "task1/artifacts/evaluations/trend_aeece5ad22f61833/evaluation.json",
+  "model": "gemini-3.6-flash",
+  "prompt_path": "task1/prompts/creative_evaluation.txt",
+  "evaluated_at": "2026-09-02T10:02:02.968845+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_d57f213beb18af59",
+  "hook_type": "curtain_reveal",
+  "hook_description": "A bride peeks from behind a curtain at her groom and family in a living room.",
+  "first_2_seconds_description": "A woman in a white dress peeks past a grey curtain into a room with seated guests.",
+  "visual_format": "vertical_video",
+  "ugc_style": true,
+  "pacing": "slow",
+  "primary_emotions": [
+    "anticipation",
+    "joy"
+  ],
+  "scene_summary": "A bride peeks from behind a curtain watching a family engagement gathering.",
+  "characters_count": 5,
+  "text_overlay_present": true,
+  "text_overlay_summary": "Arabic religious calligraphy overlayed at top center.",
+  "spoken_dialogue_present": false,
+  "spoken_dialogue_summary": null,
+  "reaction_present": true,
+  "reveal_present": true,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "event_reveal",
+  "audio_role": "background_recitation",
+  "visual_dependency": "high",
+  "audio_dependency": "medium",
+  "analysis_confidence": 0.95
+}

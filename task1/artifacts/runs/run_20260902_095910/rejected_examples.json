@@ -1,0 +1,29 @@
+[
+  {
+    "trend_id": "trend_c4eb24f5dd0bb588",
+    "source_url": "https://www.tiktok.com/@amero63/video/7671937488486714645",
+    "overall_score": 1.86,
+    "rejection_reasons": [
+      "Severe brand safety violation involving real-life building fire and trapped individuals",
+      "Incompatible tone for a playful, family-friendly mobile game"
+    ]
+  },
+  {
+    "trend_id": "trend_f831a544cd1ba839",
+    "source_url": "https://www.tiktok.com/@rar_8il/video/7670672618839674133",
+    "overall_score": 1.955,
+    "rejection_reasons": [
+      "Heavy reliance on specific regional language spoken dialogue and creator persona",
+      "No natural visual or narrative bridge to Royal Match gameplay mechanics"
+    ]
+  },
+  {
+    "trend_id": "trend_b9e610b3895b972e",
+    "source_url": "https://www.tiktok.com/@92.abo/video/7677921347246329106",
+    "overall_score": 2.195,
+    "rejection_reasons": [
+      "Vlog format depends heavily on spoken audio monologue with no direct problem-solving or clear gameplay hook.",
+      "Mechanic lacks natural transition into Royal Match puzzle gameplay."
+    ]
+  }
+]

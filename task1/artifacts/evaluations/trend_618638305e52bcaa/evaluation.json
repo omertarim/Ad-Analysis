@@ -1,0 +1,30 @@
+{
+  "trend_id": "trend_618638305e52bcaa",
+  "hook_strength_score": 3.0,
+  "first_seconds_strength_score": 3.5,
+  "royal_match_world_transferability_score": 2.0,
+  "player_intervention_score": 1.5,
+  "gameplay_bridge_score": 1.5,
+  "visual_clarity_score": 6.0,
+  "production_feasibility_score": 7.0,
+  "tonal_fit_score": 3.0,
+  "trend_transferability_score": 2.0,
+  "brand_safety_score": 10.0,
+  "context_dependency_risk": 9.5,
+  "audio_dependency_risk": 8.5,
+  "ip_or_identity_risk": 1.0,
+  "strengths": [
+    "Clear side-by-side comparison visual structure"
+  ],
+  "concerns": [
+    "Requires heavy localization and spoken audio to convey the comparison"
+  ],
+  "rejection_reasons": [
+    "Relies heavily on niche regional language/dialect context that does not translate to a global audience",
+    "Lacks a clear gameplay problem, rescue mechanic, or interactive trigger suitable for Royal Match"
+  ],
+  "adaptation_idea": null,
+  "evaluation_confidence": 0.95,
+  "overall_score": 2.25,
+  "adaptable": false
+}

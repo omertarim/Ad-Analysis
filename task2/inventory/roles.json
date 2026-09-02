@@ -1,0 +1,377 @@
+{
+  "source_html": "task2/source/RK_SaveTheKing_Playable.html",
+  "engine": "luna-playground-unity-wasm",
+  "pipeline_version": "2.9.2",
+  "notes": "MAP catalog only. Theme names are not encoded here. A later planner maps an arbitrary theme onto these roles.",
+  "asset_roles": [
+    {
+      "id": "match3_tiles",
+      "label": "Match-3 board icons",
+      "replaceable": true,
+      "risk": "low",
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "preserve_atlas_layout": false,
+      "transparent_background": true,
+      "generate_image": true,
+      "notes": "Standalone ~140px icons with true alpha. Highest visual impact. Keep similar footprint so grid cells still read.",
+      "assets": [
+        {"id": "40474", "label": "blue_castle", "width": 141, "height": 141, "kind": "png"},
+        {"id": "40296", "label": "red_gem", "width": 143, "height": 134, "kind": "png"},
+        {"id": "41918", "label": "gold_helmet", "width": 146, "height": 145, "kind": "png"},
+        {"id": "41826", "label": "purple_shield", "width": 140, "height": 140, "kind": "png"},
+        {"id": "43332", "label": "green_clover", "width": 142, "height": 142, "kind": "png"},
+        {"id": "43744", "label": "pink_tulip", "width": 125, "height": 126, "kind": "png"},
+        {"id": "39144", "label": "feather", "width": 140, "height": 140, "kind": "png"}
+      ]
+    },
+    {
+      "id": "falling_rocks",
+      "label": "Physics rocks filling the chamber",
+      "replaceable": true,
+      "risk": "medium",
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "preserve_atlas_layout": false,
+      "transparent_background": true,
+      "generate_image": true,
+      "notes": "Frame-spin rock sprites. Replacement must stay roughly round/chunky with true alpha. Do not change physics radius in overrides.",
+      "assets": [
+        {"id": "37442", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37444", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37446", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37448", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37450", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37452", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37454", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37456", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37458", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37460", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37462", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37464", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37466", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37468", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37470", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37472", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37474", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37476", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37478", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37480", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37482", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37484", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37486", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37488", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37490", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37492", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37494", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37496", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37498", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37500", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37502", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37504", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37506", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37508", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37510", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37512", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37514", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37516", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37518", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37520", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37522", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37524", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37526", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37528", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37530", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37532", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37534", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37536", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37538", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37540", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37542", "width": 140, "height": 140, "kind": "png"},
+        {"id": "37544", "width": 140, "height": 140, "kind": "png"}
+      ]
+    },
+    {
+      "id": "snake",
+      "label": "Threat creature (head + body scales)",
+      "replaceable": true,
+      "risk": "medium",
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "preserve_atlas_layout": false,
+      "transparent_background": true,
+      "generate_image": true,
+      "notes": "Top-down reptile head plus repeating scale strip. True alpha. Keep head roughly centered in frame.",
+      "assets": [
+        {"id": "37148", "label": "head_a", "width": 512, "height": 512, "kind": "png"},
+        {"id": "37150", "label": "head_b", "width": 512, "height": 512, "kind": "png"},
+        {"id": "37152", "label": "head_c", "width": 512, "height": 512, "kind": "png"},
+        {"id": "37146", "label": "body_scales", "width": 512, "height": 512, "kind": "webp"}
+      ]
+    },
+    {
+      "id": "chamber_layout",
+      "label": "Vertical chamber / well layout",
+      "replaceable": false,
+      "risk": "medium",
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "preserve_atlas_layout": false,
+      "transparent_background": false,
+      "generate_image": false,
+      "notes": "Full-height shaft aligned to colliders. Do not generate a replacement; keep original geometry. Theme this space with wall_texture and safe color overrides.",
+      "assets": [
+        {"id": "37166", "width": 1546, "height": 2672, "kind": "webp"}
+      ]
+    },
+    {
+      "id": "wall_texture",
+      "label": "Tileable wall / soil texture",
+      "replaceable": true,
+      "risk": "low",
+      "preserve_aspect": true,
+      "preserve_silhouette": false,
+      "preserve_atlas_layout": false,
+      "transparent_background": false,
+      "generate_image": true,
+      "tileable": true,
+      "notes": "Seamless plaster/stone fill. Low visual noise, dark but readable, no objects or text.",
+      "assets": [
+        {"id": "37162", "width": 627, "height": 627, "kind": "webp"}
+      ]
+    },
+    {
+      "id": "spike",
+      "label": "Dropping spike / pin",
+      "replaceable": true,
+      "risk": "medium",
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "preserve_atlas_layout": false,
+      "transparent_background": true,
+      "generate_image": true,
+      "notes": "Tall thin gold bar. True alpha. Keep vertical capsule silhouette or it will miss the spike mask.",
+      "assets": [
+        {"id": "37170", "width": 39, "height": 315, "kind": "webp"}
+      ]
+    },
+    {
+      "id": "tutorial_hand",
+      "label": "Tutorial pointing hand",
+      "replaceable": true,
+      "risk": "low",
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "preserve_atlas_layout": false,
+      "transparent_background": true,
+      "generate_image": true,
+      "notes": "Must still read as a pointing hand with true alpha. Recolor is safer than a full object swap.",
+      "assets": [
+        {"id": "37558", "width": 512, "height": 256, "kind": "png"}
+      ]
+    },
+    {
+      "id": "cta_button",
+      "label": "Play / CTA pill background",
+      "replaceable": true,
+      "risk": "low",
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "preserve_atlas_layout": false,
+      "transparent_background": true,
+      "generate_image": true,
+      "assets": [
+        {"id": "42896", "width": 512, "height": 220, "kind": "png"}
+      ]
+    },
+    {
+      "id": "game_logo",
+      "label": "Royal Kingdom badge logo",
+      "replaceable": true,
+      "risk": "medium",
+      "preserve_aspect": true,
+      "preserve_silhouette": false,
+      "preserve_atlas_layout": false,
+      "transparent_background": true,
+      "generate_image": true,
+      "notes": "Brand mark with true alpha. Theme can recolor the badge; do not invent a different game name.",
+      "assets": [
+        {"id": "43456", "width": 450, "height": 275, "kind": "webp"}
+      ]
+    },
+    {
+      "id": "king_atlas",
+      "label": "King body-part sprite atlas",
+      "replaceable": true,
+      "risk": "high",
+      "preserve_aspect": true,
+      "preserve_silhouette": true,
+      "preserve_atlas_layout": true,
+      "transparent_background": true,
+      "generate_image": false,
+      "notes": "Packed character atlas. Only in-place restyle is safe. Do not generate or repack UVs.",
+      "assets": [
+        {"id": "38892", "width": 512, "height": 512, "kind": "webp"}
+      ]
+    }
+  ],
+  "safe_overrides": [
+    {
+      "component": "BannerController",
+      "field": "messageText",
+      "type": "string",
+      "current": "Harder than you think!",
+      "risk": "low",
+      "notes": "Top headline. Best place for a themed slogan."
+    },
+    {
+      "component": "BannerController",
+      "field": "textColor",
+      "type": "color",
+      "current": [1, 1, 1, 1],
+      "risk": "low"
+    },
+    {
+      "component": "BannerController",
+      "field": "backgroundColor",
+      "type": "color",
+      "current": [0, 0, 0, 0.623529434204102],
+      "risk": "low"
+    },
+    {
+      "component": "BannerController",
+      "field": "fontSize",
+      "type": "float",
+      "current": 6.5,
+      "risk": "low"
+    },
+    {
+      "component": "Dream.Playable.Configuration.ConfigurationManager",
+      "field": "SoilColorPhase1",
+      "type": "color",
+      "current": [0.4549019607843137, 0.4509803921568627, 0.4823529411764706, 1],
+      "risk": "low"
+    },
+    {
+      "component": "Dream.Playable.Configuration.ConfigurationManager",
+      "field": "SoilColorPhase2",
+      "type": "color",
+      "current": [0.4549019607843137, 0.4509803921568627, 0.4862745098039216, 1],
+      "risk": "low"
+    },
+    {
+      "component": "Dream.Playable.Configuration.ConfigurationManager",
+      "field": "SoilColorPhase3",
+      "type": "color",
+      "current": [1, 1, 1, 1],
+      "risk": "low"
+    },
+    {
+      "component": "Dream.Playable.Configuration.ConfigurationManager",
+      "field": "SoilBaseGreyPhase1",
+      "type": "float",
+      "current": 0.2,
+      "risk": "low"
+    },
+    {
+      "component": "Dream.Playable.Configuration.ConfigurationManager",
+      "field": "SoilBaseGreyPhase2",
+      "type": "float",
+      "current": 0.2,
+      "risk": "low"
+    },
+    {
+      "component": "LayoutController",
+      "field": "separatorWallColor",
+      "type": "color",
+      "current": [0.14901960784313725, 0.14901960784313725, 0.16470588235294115, 1],
+      "risk": "low"
+    },
+    {
+      "component": "GameController",
+      "field": "layout1Rock1Color",
+      "type": "color",
+      "current": [0.980000019073486, 0.980000019073486, 0.980000019073486, 1],
+      "risk": "low",
+      "notes": "Tint for falling rocks. Apply the same 4 theme colors to every layoutNRockKColor and set matching BaseGrey to 0 so later stages do not greyscale the sprite."
+    },
+    {
+      "component": "GameController",
+      "field": "layout1Rock2Color",
+      "type": "color",
+      "current": [0.800000011920929, 0.800000011920929, 0.800000011920929, 1],
+      "risk": "low"
+    },
+    {
+      "component": "GameController",
+      "field": "layout1Rock3Color",
+      "type": "color",
+      "current": [0.550000011920929, 0.550000011920929, 0.550000011920929, 1],
+      "risk": "low"
+    },
+    {
+      "component": "GameController",
+      "field": "layout1Rock4Color",
+      "type": "color",
+      "current": [0.340000003576279, 0.340000003576279, 0.340000003576279, 1],
+      "risk": "low"
+    }
+  ],
+  "do_not_touch": [
+    {
+      "id": "source_html_bytes",
+      "reason": "Original playable must stay unmodified. Variants are written to task2/outputs later."
+    },
+    {
+      "id": "unity_wasm_and_data_blob",
+      "reason": "Game logic, colliders, and Mecanim live in compressed WASM/blob. Rewriting it breaks playability."
+    },
+    {
+      "id": "decompressor_and_runtime_js",
+      "reason": "Luna base122/brotli loader and AppLovin/MRAID glue."
+    },
+    {
+      "id": "shaders.json",
+      "reason": "Render pipeline shaders."
+    },
+    {
+      "id": "LayoutController.colliderJson0-4",
+      "reason": "Physics AABB, king niche, spawn, spike/king masks."
+    },
+    {
+      "id": "CustomPhysicsController.itemBodyRadius",
+      "reason": "Rock collision radius. Visual rock swaps must fit the existing radius."
+    },
+    {
+      "id": "levelDataStage1-3_layout",
+      "reason": "Tiled board geometry and move count. Changing cells can make the tutorial/puzzle unsolvable. Tile art is swapped via match3_tiles, not via this JSON."
+    },
+    {
+      "id": "TutorialManager.maskPositions_handPosition",
+      "reason": "Hard-wired to the stage-1 match cells."
+    },
+    {
+      "id": "store_links_mraid_analytics",
+      "reason": "Ad-network CTA and measurement."
+    },
+    {
+      "id": "localized_text_atlases",
+      "asset_ids": ["40402", "41776", "44198", "38912"],
+      "reason": "Packed multilingual glyphs. Regenerating breaks UV crops. Banner copy is the messageText override instead."
+    },
+    {
+      "id": "endcard_screenshots",
+      "asset_ids": ["99626", "99628", "99630", "99632", "99634", "99636", "99638", "99640", "99642", "99644", "99646"],
+      "reason": "Marketing stills of the original playable inside hex frames. Restyle after a themed run, not before."
+    },
+    {
+      "id": "vfx_sprite_sheets",
+      "asset_ids": ["45132", "43682", "43656", "99738", "43632"],
+      "reason": "Packed effect frames. Optional later; layout must stay identical."
+    },
+    {
+      "id": "placeholder_and_mask_images",
+      "reason": "1x1 placeholders and shadow/mask textures. No theme signal."
+    }
+  ]
+}

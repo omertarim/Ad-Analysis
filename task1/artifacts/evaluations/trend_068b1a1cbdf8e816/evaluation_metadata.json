@@ -1,0 +1,10 @@
+{
+  "trend_id": "trend_068b1a1cbdf8e816",
+  "source_url": "https://www.tiktok.com/@theborafr/video/7670978655622974727",
+  "source_video_path": "task1/artifacts/raw/trend_068b1a1cbdf8e816/source.mp4",
+  "analysis_artifact_path": "task1/artifacts/analysis/trend_068b1a1cbdf8e816/analysis.json",
+  "evaluation_artifact_path": "task1/artifacts/evaluations/trend_068b1a1cbdf8e816/evaluation.json",
+  "model": "gemini-3.6-flash",
+  "prompt_path": "task1/prompts/creative_evaluation.txt",
+  "evaluated_at": "2026-09-02T10:01:25.572107+00:00"
+}

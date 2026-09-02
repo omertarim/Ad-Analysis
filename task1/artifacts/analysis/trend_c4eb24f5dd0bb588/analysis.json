@@ -1,0 +1,30 @@
+{
+  "trend_id": "trend_c4eb24f5dd0bb588",
+  "hook_type": "shock_value",
+  "hook_description": "A building engulfed in flames with thick smoke billowing into the sky as people cling to a high tower.",
+  "first_2_seconds_description": "Wide view of a burning building emitting thick black smoke, zooming into a telecommunications tower on top.",
+  "visual_format": "raw_phone_footage",
+  "ugc_style": true,
+  "pacing": "medium",
+  "primary_emotions": [
+    "shock",
+    "fear",
+    "concern"
+  ],
+  "scene_summary": "Real-life footage capturing a serious fire on a commercial building while trapped individuals hold onto an antenna tower above the smoke.",
+  "characters_count": 2,
+  "text_overlay_present": false,
+  "text_overlay_summary": null,
+  "spoken_dialogue_present": true,
+  "spoken_dialogue_summary": "Panicked onlookers speaking Arabic, voicing fear and praying for the safety of people on the tower.",
+  "reaction_present": true,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "eye_witness_event",
+  "audio_role": "live_ambient_commentary",
+  "visual_dependency": "high",
+  "audio_dependency": "medium",
+  "analysis_confidence": 0.95
+}

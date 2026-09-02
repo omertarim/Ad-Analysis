@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_282517cfd75a0cab",
+  "candidate_probability": 0.02,
+  "candidate_rank": 17,
+  "selected_for_multimodal": false,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@laithouday.1/video/7669727487215062292",
+  "inference_features": {
+    "views": 1900000.0,
+    "likes": 47100.0,
+    "comments": 816.0,
+    "shares": 24400.0,
+    "saves": 3902.0,
+    "followers": 68000.0,
+    "video_age_days": 28.21827
+  }
+}

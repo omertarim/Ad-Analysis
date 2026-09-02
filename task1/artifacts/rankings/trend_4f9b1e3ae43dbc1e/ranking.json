@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_4f9b1e3ae43dbc1e",
+  "candidate_probability": 0.163333,
+  "candidate_rank": 5,
+  "selected_for_multimodal": true,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@ll.ays5e/video/7676923877368319240",
+  "inference_features": {
+    "views": 4100000.0,
+    "likes": 244900.0,
+    "comments": 619.0,
+    "shares": 26500.0,
+    "saves": 10600.0,
+    "followers": 810.0,
+    "video_age_days": 8.825422
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_e80a605e008cf478",
+  "hook_type": "relational_humor",
+  "hook_description": "Woman applies makeup while husband holds unironed shirt.",
+  "first_2_seconds_description": "Woman applies lip liner while man stands behind holding a shirt.",
+  "visual_format": "vertical",
+  "ugc_style": true,
+  "pacing": "slow",
+  "primary_emotions": [
+    "humor",
+    "indifference"
+  ],
+  "scene_summary": "Woman applies makeup, ignoring her husband holding an unironed shirt behind her.",
+  "characters_count": 2,
+  "text_overlay_present": true,
+  "text_overlay_summary": "Text states husband wants to wear unironed shirt.",
+  "spoken_dialogue_present": true,
+  "spoken_dialogue_summary": "Turkish dialogue audio plays in background.",
+  "reaction_present": false,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "lip_sync_skit",
+  "audio_role": "dubbed_dialogue",
+  "visual_dependency": "high",
+  "audio_dependency": "high",
+  "analysis_confidence": 0.95
+}

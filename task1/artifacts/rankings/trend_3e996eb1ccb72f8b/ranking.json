@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_3e996eb1ccb72f8b",
+  "candidate_probability": 0.056667,
+  "candidate_rank": 15,
+  "selected_for_multimodal": false,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@can.kara960/video/7678825916402912533",
+  "inference_features": {
+    "views": 1400000.0,
+    "likes": 31200.0,
+    "comments": 290.0,
+    "shares": 9547.0,
+    "saves": 990.0,
+    "followers": 83.0,
+    "video_age_days": 3.699844
+  }
+}

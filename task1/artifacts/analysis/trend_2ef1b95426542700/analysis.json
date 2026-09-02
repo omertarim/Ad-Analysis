@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_2ef1b95426542700",
+  "hook_type": "Relatable Storytelling",
+  "hook_description": "Woman in car talks directly to camera while gesturing near neck.",
+  "first_2_seconds_description": "Woman wearing sunglasses in a car speaks while touching her neck.",
+  "visual_format": "Talking Head",
+  "ugc_style": true,
+  "pacing": "Medium",
+  "primary_emotions": [
+    "Amusement",
+    "Relatability"
+  ],
+  "scene_summary": "Woman describes kissing someone and realizing her hands smell like his perfume.",
+  "characters_count": 1,
+  "text_overlay_present": false,
+  "text_overlay_summary": null,
+  "spoken_dialogue_present": true,
+  "spoken_dialogue_summary": "Woman talks about holding someone's neck while kissing and smelling his perfume on her hands.",
+  "reaction_present": true,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "Relatable relationship story",
+  "audio_role": "Primary Dialogue",
+  "visual_dependency": "Medium",
+  "audio_dependency": "High",
+  "analysis_confidence": 0.95
+}

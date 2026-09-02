@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_d30b691b917e5cc3",
+  "hook_strength_score": 5.5,
+  "first_seconds_strength_score": 6.0,
+  "royal_match_world_transferability_score": 6.5,
+  "player_intervention_score": 7.0,
+  "gameplay_bridge_score": 6.5,
+  "visual_clarity_score": 6.0,
+  "production_feasibility_score": 8.0,
+  "tonal_fit_score": 5.5,
+  "trend_transferability_score": 5.0,
+  "brand_safety_score": 9.0,
+  "context_dependency_risk": 7.0,
+  "audio_dependency_risk": 2.0,
+  "ip_or_identity_risk": 1.0,
+  "strengths": [
+    "Universal theme of suffering under extreme heat and heavy workload",
+    "Triggers clear player motivation to save or relieve the character"
+  ],
+  "concerns": [
+    "Original content relies heavily on localized street-vending dialogue",
+    "Requires full 3D animation transition from real-world UGC"
+  ],
+  "rejection_reasons": [],
+  "adaptation_idea": "Show King Robert sweating profusely under a scorching sun while hauling heavy castle supplies, prompting the player to complete a match-3 puzzle to build him a pool and shade.",
+  "evaluation_confidence": 0.85,
+  "overall_score": 5.87,
+  "adaptable": false
+}

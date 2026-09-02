@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_e80a605e008cf478",
+  "candidate_probability": 0.073333,
+  "candidate_rank": 10,
+  "selected_for_multimodal": true,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@tekiryoda/video/7677632470757412114",
+  "inference_features": {
+    "views": 830800.0,
+    "likes": 50000.0,
+    "comments": 290.0,
+    "shares": 9884.0,
+    "saves": 2491.0,
+    "followers": 208.0,
+    "video_age_days": 6.915943
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "trend_id": "trend_dc9b4e08aa3356b0",
+  "source_url": "https://www.tiktok.com/@kirmizifrenkirmizibiraa/video/7677691084461378836",
+  "source_video_path": "task1/artifacts/raw/trend_dc9b4e08aa3356b0/source.mp4",
+  "analysis_artifact_path": "task1/artifacts/analysis/trend_dc9b4e08aa3356b0/analysis.json",
+  "evaluation_artifact_path": "task1/artifacts/evaluations/trend_dc9b4e08aa3356b0/evaluation.json",
+  "model": "gemini-3.6-flash",
+  "prompt_path": "task1/prompts/creative_evaluation.txt",
+  "evaluated_at": "2026-09-02T10:15:14.354581+00:00"
+}

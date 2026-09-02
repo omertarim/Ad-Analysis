@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_4f9b1e3ae43dbc1e",
+  "hook_type": "Text overlay",
+  "hook_description": "Woman eats food while relatable text describes a funny family exchange.",
+  "first_2_seconds_description": "A woman holds a burger and eats while onscreen text introduces a conversation.",
+  "visual_format": "Single-person video",
+  "ugc_style": true,
+  "pacing": "Medium",
+  "primary_emotions": [
+    "Humor",
+    "Amusement"
+  ],
+  "scene_summary": "A woman silently eats fast food while dramatic background audio plays and text recounts a family dialogue.",
+  "characters_count": 1,
+  "text_overlay_present": true,
+  "text_overlay_summary": "Text details a short conversation with a brother's girlfriend.",
+  "spoken_dialogue_present": false,
+  "spoken_dialogue_summary": null,
+  "reaction_present": true,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "Relatable text story paired with expressive eating and trending audio.",
+  "audio_role": "Background dramatic audio adding comedic tone.",
+  "visual_dependency": "High",
+  "audio_dependency": "Medium",
+  "analysis_confidence": 0.95
+}

@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_dc9b4e08aa3356b0",
+  "hook_strength_score": 7.5,
+  "first_seconds_strength_score": 7.5,
+  "royal_match_world_transferability_score": 8.0,
+  "player_intervention_score": 8.5,
+  "gameplay_bridge_score": 7.5,
+  "visual_clarity_score": 8.5,
+  "production_feasibility_score": 8.5,
+  "tonal_fit_score": 8.0,
+  "trend_transferability_score": 8.0,
+  "brand_safety_score": 9.0,
+  "context_dependency_risk": 2.5,
+  "audio_dependency_risk": 2.0,
+  "ip_or_identity_risk": 2.0,
+  "strengths": [
+    "Immediate visual clarity with a hazard moving rapidly toward the main character",
+    "Highly intuitive timing mechanic easily translated to player intervention",
+    "Seamlessly adapts to 3D castle theme using rolling barrels or boulders threatening King Robert"
+  ],
+  "concerns": [
+    "Requires smooth execution of match-3 gameplay transition to maintain high pacing"
+  ],
+  "rejection_reasons": [],
+  "adaptation_idea": "King Robert stands in a castle hallway as a giant rolling barrel speeds toward him, prompting the player to quickly solve a puzzle to trigger a jump mechanic or block the path.",
+  "evaluation_confidence": 0.9,
+  "overall_score": 7.65,
+  "adaptable": true
+}

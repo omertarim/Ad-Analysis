@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_2dd7a1f3ed40c282",
+  "candidate_probability": 0.07,
+  "candidate_rank": 14,
+  "selected_for_multimodal": false,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@sultan_erdal_/video/7676538356183977224",
+  "inference_features": {
+    "views": 7600000.0,
+    "likes": 122400.0,
+    "comments": 1772.0,
+    "shares": 7506.0,
+    "saves": 6741.0,
+    "followers": 455100.0,
+    "video_age_days": 9.864369
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "theme": "Galatasaray",
+  "slug": "galatasaray",
+  "html": "task2/outputs/galatasaray.html",
+  "created_at": "2026-09-01T17:18:48.414718+00:00",
+  "page_loaded": true,
+  "console_errors": [],
+  "page_errors": [],
+  "interactions_attempted": [
+    {
+      "name": "canvas_tap_1",
+      "x": 360.0,
+      "y": 1024.0
+    },
+    {
+      "name": "canvas_tap_2",
+      "x": 259.2,
+      "y": 998.4
+    },
+    {
+      "name": "canvas_tap_3",
+      "x": 460.8,
+      "y": 998.4
+    },
+    {
+      "name": "canvas_tap_4",
+      "x": 360.0,
+      "y": 768.0
+    }
+  ],
+  "screenshots": {
+    "initial": "task2/artifacts/themes/galatasaray/screenshots/initial.png",
+    "after_interaction": "task2/artifacts/themes/galatasaray/screenshots/after_interaction.png",
+    "final": "task2/artifacts/themes/galatasaray/screenshots/final.png"
+  },
+  "canvas_present": true,
+  "preloader_cleared": true,
+  "canvas_size": {
+    "width": 720,
+    "height": 1280
+  },
+  "playability_pass": true,
+  "visual_pass": true,
+  "interaction_state_changed": true,
+  "visual": [
+    {
+      "label": "initial",
+      "path": "task2/artifacts/themes/galatasaray/screenshots/initial.png",
+      "black_ratio": 0.1015,
+      "white_ratio": 0.0169,
+      "magenta_ratio": 0.0,
+      "white_blob_ratio": 0.0004,
+      "luminance_std": 64.68,
+      "unique_colors_sampled": 666,
+      "checks": {
+        "mostly_black": false,
+        "asset_load_failure_marker": false,
+        "gameplay_area_visible": true,
+        "large_white_block": false
+      },
+      "pass": true
+    },
+    {
+      "label": "after_interaction",
+      "path": "task2/artifacts/themes/galatasaray/screenshots/after_interaction.png",
+      "black_ratio": 0.1014,
+      "white_ratio": 0.0169,
+      "magenta_ratio": 0.0,
+      "white_blob_ratio": 0.0004,
+      "luminance_std": 64.69,
+      "unique_colors_sampled": 667,
+      "checks": {
+        "mostly_black": false,
+        "asset_load_failure_marker": false,
+        "gameplay_area_visible": true,
+        "large_white_block": false
+      },
+      "pass": true
+    },
+    {
+      "label": "final",
+      "path": "task2/artifacts/themes/galatasaray/screenshots/final.png",
+      "black_ratio": 0.1018,
+      "white_ratio": 0.017,
+      "magenta_ratio": 0.0,
+      "white_blob_ratio": 0.0004,
+      "luminance_std": 64.74,
+      "unique_colors_sampled": 668,
+      "checks": {
+        "mostly_black": false,
+        "asset_load_failure_marker": false,
+        "gameplay_area_visible": true,
+        "large_white_block": false
+      },
+      "pass": true
+    }
+  ],
+  "vlm": null,
+  "overall_pass": true,
+  "notes": []
+}

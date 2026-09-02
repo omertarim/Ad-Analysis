@@ -1,0 +1,33 @@
+{
+  "trend_id": "trend_89e4c1ec954bf2ae",
+  "hook_strength_score": 4.0,
+  "first_seconds_strength_score": 4.5,
+  "royal_match_world_transferability_score": 3.5,
+  "player_intervention_score": 2.0,
+  "gameplay_bridge_score": 2.5,
+  "visual_clarity_score": 5.0,
+  "production_feasibility_score": 6.0,
+  "tonal_fit_score": 4.0,
+  "trend_transferability_score": 3.0,
+  "brand_safety_score": 9.5,
+  "context_dependency_risk": 8.0,
+  "audio_dependency_risk": 8.5,
+  "ip_or_identity_risk": 2.5,
+  "strengths": [
+    "Sequential step-by-step structure provides clear visual pacing",
+    "High production feasibility using standard 3D character animations"
+  ],
+  "concerns": [
+    "Heavily relies on spoken dialogue in a specific language format",
+    "Lacks inherent problem-solving or urgent call-to-action for player intervention",
+    "Difficult to bridge cooking/chore repetition into match-3 gameplay seamlessly"
+  ],
+  "rejection_reasons": [
+    "High dependence on localized audio dialogue and linguistic trend format",
+    "Weak gameplay bridge and lack of player intervention mechanics"
+  ],
+  "adaptation_idea": "King Robert performs rapid sequential tasks around the ruined castle while narrating each step, leading to an overwhelming mess that requires player help to clean up through gameplay.",
+  "evaluation_confidence": 0.9,
+  "overall_score": 2.945,
+  "adaptable": false
+}

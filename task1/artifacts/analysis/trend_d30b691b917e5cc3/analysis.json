@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_d30b691b917e5cc3",
+  "hook_type": "Relatable Situation",
+  "hook_description": "A woman shields her eyes from the sun outdoors while text overlay explains a stressful sales situation.",
+  "first_2_seconds_description": "A woman in a black headscarf shields her eyes from bright sunlight while a man carries a large cardboard box behind her.",
+  "visual_format": "Vertical video",
+  "ugc_style": true,
+  "pacing": "Medium",
+  "primary_emotions": [
+    "Exhaustion",
+    "Frustration"
+  ],
+  "scene_summary": "A street vendor films herself working in extreme heat while carrying merchandise and expressing frustration via text.",
+  "characters_count": 2,
+  "text_overlay_present": true,
+  "text_overlay_summary": "Arabic text complaining about heat, fatigue, and customers claiming makeup boxes are too expensive.",
+  "spoken_dialogue_present": false,
+  "spoken_dialogue_summary": null,
+  "reaction_present": true,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "Relatable daily struggle paired with upbeat background music.",
+  "audio_role": "Background music",
+  "visual_dependency": "High",
+  "audio_dependency": "Low",
+  "analysis_confidence": 0.95
+}

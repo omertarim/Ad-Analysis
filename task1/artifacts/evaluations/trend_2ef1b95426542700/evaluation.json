@@ -1,0 +1,32 @@
+{
+  "trend_id": "trend_2ef1b95426542700",
+  "hook_strength_score": 4.0,
+  "first_seconds_strength_score": 3.5,
+  "royal_match_world_transferability_score": 2.0,
+  "player_intervention_score": 1.5,
+  "gameplay_bridge_score": 2.0,
+  "visual_clarity_score": 4.0,
+  "production_feasibility_score": 7.0,
+  "tonal_fit_score": 3.0,
+  "trend_transferability_score": 2.5,
+  "brand_safety_score": 9.0,
+  "context_dependency_risk": 7.0,
+  "audio_dependency_risk": 8.5,
+  "ip_or_identity_risk": 3.0,
+  "strengths": [
+    "Authentic UGC aesthetic",
+    "High organic engagement"
+  ],
+  "concerns": [
+    "High reliance on spoken language limits global ad scalability"
+  ],
+  "rejection_reasons": [
+    "Requires heavy spoken audio dialogue without a strong visual mechanic",
+    "Lacks player intervention or problem-solving hook required for gameplay transition",
+    "Personal relationship storytelling structure does not transfer naturally into King Robert's world"
+  ],
+  "adaptation_idea": null,
+  "evaluation_confidence": 0.95,
+  "overall_score": 2.36,
+  "adaptable": false
+}

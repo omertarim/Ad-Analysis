@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_cb4468eb145b1332",
+  "hook_type": "Visual",
+  "hook_description": "Woman dramatically lying on cobblestones in a white dress.",
+  "first_2_seconds_description": "Close-up of a woman's face on the ground, camera slowly zooms out revealing her outfit and surroundings.",
+  "visual_format": "Vertical 9:16",
+  "ugc_style": true,
+  "pacing": "Slow",
+  "primary_emotions": [
+    "Dramatic",
+    "Humorous"
+  ],
+  "scene_summary": "A woman lies dramatically on the ground next to bouquets of flowers and a luxury car.",
+  "characters_count": 2,
+  "text_overlay_present": true,
+  "text_overlay_summary": "Turkish caption about not getting everything one wants.",
+  "spoken_dialogue_present": false,
+  "spoken_dialogue_summary": null,
+  "reaction_present": false,
+  "reveal_present": true,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "Slow zoom-out reveal paired with dramatic Turkish text and Arabic background music.",
+  "audio_role": "Background Music",
+  "visual_dependency": "High",
+  "audio_dependency": "Low",
+  "analysis_confidence": 0.95
+}

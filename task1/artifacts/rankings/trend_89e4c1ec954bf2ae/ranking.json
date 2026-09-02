@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_89e4c1ec954bf2ae",
+  "candidate_probability": 0.213333,
+  "candidate_rank": 4,
+  "selected_for_multimodal": true,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@nuran.ahin11/video/7677922247532645653",
+  "inference_features": {
+    "views": 3700000.0,
+    "likes": 161400.0,
+    "comments": 3019.0,
+    "shares": 17300.0,
+    "saves": 5196.0,
+    "followers": 14900.0,
+    "video_age_days": 6.135098
+  }
+}

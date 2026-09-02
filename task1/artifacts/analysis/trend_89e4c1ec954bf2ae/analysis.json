@@ -1,0 +1,30 @@
+{
+  "trend_id": "trend_89e4c1ec954bf2ae",
+  "hook_type": "Action Hook",
+  "hook_description": "A woman energetically kneads dough in a large blue tub while introducing herself directly to the camera.",
+  "first_2_seconds_description": "A woman in a headscarf kneads dough in a blue basin while speaking to the camera.",
+  "visual_format": "Vertical 9:16",
+  "ugc_style": true,
+  "pacing": "Fast",
+  "primary_emotions": [
+    "Joy",
+    "Pride",
+    "Humor"
+  ],
+  "scene_summary": "A Turkish woman named Nuran shows each step of making traditional flatbread, repeating her name and task at each stage before feeding her husband.",
+  "characters_count": 2,
+  "text_overlay_present": false,
+  "text_overlay_summary": null,
+  "spoken_dialogue_present": true,
+  "spoken_dialogue_summary": "Nuran repeatedly says 'I am Nuran' followed by the specific bread-making chore she is performing in each shot.",
+  "reaction_present": true,
+  "reveal_present": true,
+  "challenge_present": false,
+  "before_after_present": true,
+  "gameplay_present": false,
+  "trend_mechanic": "Repetitive sentence structure framing sequential task steps",
+  "audio_role": "Background Music with Dialogue",
+  "visual_dependency": "High",
+  "audio_dependency": "High",
+  "analysis_confidence": 0.95
+}

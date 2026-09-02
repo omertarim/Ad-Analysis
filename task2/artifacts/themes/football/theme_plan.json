@@ -1,0 +1,164 @@
+{
+  "theme": "football",
+  "visual_thesis": "High-stakes championship game setting combining royal majesty with energetic gridiron sports aesthetics, stadium lighting, and turf textures.",
+  "art_style": "Glossy 3D casual mobile style with vibrant stadium lighting, polished metallic highlights, and saturated team colors.",
+  "palette": [
+    "#1B4D3E",
+    "#A32A2A",
+    "#FFC72C",
+    "#101820",
+    "#FFFFFF"
+  ],
+  "banner": {
+    "text": "TOUCHDOWN! SAVE THE KING NOW!",
+    "text_color": "#FFFFFF",
+    "background_color": "#A32A2A"
+  },
+  "overrides": {
+    "soil_color": "#1B4D3E",
+    "separator_wall_color": "#2B2B2B",
+    "rock_colors": [
+      "#3A5F0B",
+      "#8B0000",
+      "#D4AF37",
+      "#1E3D59"
+    ]
+  },
+  "roles": [
+    {
+      "role_id": "match3_tiles",
+      "concept": "7 sports and championship themed match icons with glossy finish and high visibility.",
+      "image_direction": "Glossy 3D mobile game icon set, vibrant lighting, true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "40474",
+          "concept": "Blue team quarterback helmet",
+          "image_direction": "Glossy 3D blue football helmet with gold crown decal, front 3/4 view, vibrant studio light, true transparent alpha background."
+        },
+        {
+          "asset_id": "40296",
+          "concept": "Red referee whistle",
+          "image_direction": "Shiny red chrome referee whistle on a gold chain, glossy 3D, rich reflections, true transparent alpha background."
+        },
+        {
+          "asset_id": "41918",
+          "concept": "Golden championship trophy cup",
+          "image_direction": "Polished gold championship trophy cup with royal crown emblem, gleaming highlights, glossy 3D, true transparent alpha background."
+        },
+        {
+          "asset_id": "41826",
+          "concept": "Purple sports team crest shield",
+          "image_direction": "Royal purple defensive football shield badge with golden trim, bold glossy finish, true transparent alpha background."
+        },
+        {
+          "asset_id": "43332",
+          "concept": "Green turf football cleat",
+          "image_direction": "Bright emerald green football cleat shoe with metallic gold studs, glossy 3D render, true transparent alpha background."
+        },
+        {
+          "asset_id": "43744",
+          "concept": "Pink fan foam finger",
+          "image_direction": "Hot pink foam pointing finger with Number 1 printed in gold, glossy mobile 3D style, true transparent alpha background."
+        },
+        {
+          "asset_id": "39144",
+          "concept": "Classic brown leather football",
+          "image_direction": "Classic textured brown pigskin football with white laces and golden royal crown stamp, 3D glossy render, true transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "falling_rocks",
+      "concept": "Chunky stadium turf rocks and leather football masses",
+      "image_direction": "Rough spherical mass made of compressed stadium turf and scuffed leather football seams, chunky rock silhouette, true transparent alpha background.",
+      "assets": []
+    },
+    {
+      "role_id": "snake",
+      "concept": "Stadium mascot python with referee striped pattern",
+      "image_direction": "Sleek green mascot viper with black and white referee stripe markings, dramatic top-down angle, true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "37148",
+          "concept": "Angry mascot snake head primary",
+          "image_direction": "Top-down view of an aggressive viper head with a black and white referee cap, open fangs, polished glossy 3D, true transparent alpha background."
+        },
+        {
+          "asset_id": "37150",
+          "concept": "Hissing mascot snake head variant A",
+          "image_direction": "Top-down view of a roaring serpent head wearing black referee eye paint, glowing gold eyes, glossy 3D, true transparent alpha background."
+        },
+        {
+          "asset_id": "37152",
+          "concept": "Striking mascot snake head variant B",
+          "image_direction": "Top-down view of a coiled serpent head preparing to strike, shiny scaly skin, true transparent alpha background."
+        },
+        {
+          "asset_id": "37146",
+          "concept": "Referee striped snake body segment",
+          "image_direction": "Seamless top-down reptilian body scales patterned with black and white referee stripes, glossy finish, true transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "wall_texture",
+      "concept": "Dark stadium field turf texture",
+      "image_direction": "Seamless full-bleed texture of dark green stadium grass turf with subtle yard line marking detail, low contrast, no objects, no text.",
+      "assets": [
+        {
+          "asset_id": "37162",
+          "concept": "Dark stadium field turf texture",
+          "image_direction": "Seamless full-bleed texture of dark green stadium grass turf with subtle yard line marking detail, low contrast, no objects, no text."
+        }
+      ]
+    },
+    {
+      "role_id": "spike",
+      "concept": "Steel yard line marker pin",
+      "image_direction": "Tall thin vertical steel marker pin with yellow foam top, vertical capsule silhouette, studio lighting, true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "37170",
+          "concept": "Yard line marker pin spike",
+          "image_direction": "Sleek vertical golden and black yard line pin, glossy metal finish, tall narrow silhouette, true transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "tutorial_hand",
+      "concept": "Pointing hand with sports wristband",
+      "image_direction": "Clean 3D cartoon pointing hand wearing a black and white striped referee wristband, studio lighting, true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "37558",
+          "concept": "Referee cuff tutorial hand",
+          "image_direction": "Gloved pointing index finger with a plush terrycloth athletic wristband, clear directional gesture, glossy 3D, true transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "cta_button",
+      "concept": "Bright yellow scoreboard CTA pill",
+      "image_direction": "Wide rounded pill button designed like a illuminated neon yellow stadium scoreboard display, glossy 3D plastic bezel, true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "42896",
+          "concept": "Scoreboard CTA button container",
+          "image_direction": "Glossy neon yellow rounded pill-shaped button frame with gold metallic border, stadium style, true transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "game_logo",
+      "concept": "Royal Kingdom game logo with championship sports crest",
+      "image_direction": "Official ROYAL KINGDOM text logotype mounted on a golden championship shield badge with laurel wreath and stadium lighting, true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "43456",
+          "concept": "Royal Kingdom championship logo badge",
+          "image_direction": "Polished gold and navy royal badge featuring clearly legible text ROYAL KINGDOM, framed with stadium floodlight effects, glossy 3D, true transparent alpha background."
+        }
+      ]
+    }
+  ]
+}

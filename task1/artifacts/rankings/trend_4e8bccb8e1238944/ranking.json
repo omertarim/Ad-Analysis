@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_4e8bccb8e1238944",
+  "candidate_probability": 0.096667,
+  "candidate_rank": 5,
+  "selected_for_multimodal": true,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@rera287/video/7678127217087450389",
+  "inference_features": {
+    "views": 1300000.0,
+    "likes": 74500.0,
+    "comments": 1297.0,
+    "shares": 10100.0,
+    "saves": 4868.0,
+    "followers": 4503.0,
+    "video_age_days": 5.582679
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_7d13dd4ebe382302",
+  "candidate_probability": 0.02,
+  "candidate_rank": 20,
+  "selected_for_multimodal": false,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@sarmisakbey/video/7677201653333806344",
+  "inference_features": {
+    "views": 2100000.0,
+    "likes": 30600.0,
+    "comments": 193.0,
+    "shares": 695.0,
+    "saves": 2128.0,
+    "followers": 22700.0,
+    "video_age_days": 8.051568
+  }
+}

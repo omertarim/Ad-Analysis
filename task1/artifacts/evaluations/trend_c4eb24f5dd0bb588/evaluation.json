@@ -1,0 +1,30 @@
+{
+  "trend_id": "trend_c4eb24f5dd0bb588",
+  "hook_strength_score": 6.0,
+  "first_seconds_strength_score": 6.0,
+  "royal_match_world_transferability_score": 1.0,
+  "player_intervention_score": 2.0,
+  "gameplay_bridge_score": 1.0,
+  "visual_clarity_score": 5.0,
+  "production_feasibility_score": 2.0,
+  "tonal_fit_score": 0.0,
+  "trend_transferability_score": 1.0,
+  "brand_safety_score": 0.0,
+  "context_dependency_risk": 8.0,
+  "audio_dependency_risk": 5.0,
+  "ip_or_identity_risk": 2.0,
+  "strengths": [
+    "Immediate visual shock and high urgency in opening seconds"
+  ],
+  "concerns": [
+    "Real-world emergency footage cannot be adapted into marketing creatives"
+  ],
+  "rejection_reasons": [
+    "Severe brand safety violation involving real-life building fire and trapped individuals",
+    "Incompatible tone for a playful, family-friendly mobile game"
+  ],
+  "adaptation_idea": null,
+  "evaluation_confidence": 0.95,
+  "overall_score": 1.86,
+  "adaptable": false
+}

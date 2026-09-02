@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_068b1a1cbdf8e816",
+  "hook_type": "Visual Curiosity",
+  "hook_description": "A phone displaying a talking pigeon filter video is held near a sleeping person's head.",
+  "first_2_seconds_description": "A smartphone screen shows a talking pigeon filter image moving closer to a person sleeping in bed.",
+  "visual_format": "POV Prank",
+  "ugc_style": true,
+  "pacing": "Medium",
+  "primary_emotions": [
+    "Amusement",
+    "Surprise"
+  ],
+  "scene_summary": "A person wakes up their sleeping friend by placing a phone playing a weird talking pigeon filter video right against their head.",
+  "characters_count": 2,
+  "text_overlay_present": true,
+  "text_overlay_summary": "Text states 'Arkadaşımı böyle uyandırdım' (I woke up my friend like this).",
+  "spoken_dialogue_present": true,
+  "spoken_dialogue_summary": "Turkish voiceover plays from the phone audio, prompting a confused 'Alo?' from the friend.",
+  "reaction_present": true,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "Using funny or surreal audio filter videos to wake up sleeping friends.",
+  "audio_role": "Primary Driver",
+  "visual_dependency": "High",
+  "audio_dependency": "High",
+  "analysis_confidence": 0.95
+}

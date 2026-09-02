@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_abb5785595d534fb",
+  "hook_type": "question_challenge",
+  "hook_description": "A split-screen video challenges viewers to guess the person shown in growing-up photos.",
+  "first_2_seconds_description": "Top panel shows a toddler wearing a black hat with counter overlay '0' transitioning to '1'; bottom panel shows a man speaking.",
+  "visual_format": "split_screen",
+  "ugc_style": true,
+  "pacing": "fast",
+  "primary_emotions": [
+    "curiosity",
+    "amusement"
+  ],
+  "scene_summary": "Top half displays an aging montage of a girl, while bottom half features a male content creator reacting and commenting.",
+  "characters_count": 2,
+  "text_overlay_present": true,
+  "text_overlay_summary": "Incrementing counter numbers on top left and spoken dialogue subtitles at the bottom.",
+  "spoken_dialogue_present": true,
+  "spoken_dialogue_summary": "Turkish commentary asking viewers how quickly they can guess the person in the photos.",
+  "reaction_present": true,
+  "reveal_present": true,
+  "challenge_present": true,
+  "before_after_present": true,
+  "gameplay_present": false,
+  "trend_mechanic": "Guess the person/celebrity based on a timeline of growth photos.",
+  "audio_role": "commentary",
+  "visual_dependency": "high",
+  "audio_dependency": "medium",
+  "analysis_confidence": 0.95
+}

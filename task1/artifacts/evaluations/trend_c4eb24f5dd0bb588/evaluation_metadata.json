@@ -1,0 +1,10 @@
+{
+  "trend_id": "trend_c4eb24f5dd0bb588",
+  "source_url": "https://www.tiktok.com/@amero63/video/7671937488486714645",
+  "source_video_path": "task1/artifacts/raw/trend_c4eb24f5dd0bb588/source.mp4",
+  "analysis_artifact_path": "task1/artifacts/analysis/trend_c4eb24f5dd0bb588/analysis.json",
+  "evaluation_artifact_path": "task1/artifacts/evaluations/trend_c4eb24f5dd0bb588/evaluation.json",
+  "model": "gemini-3.6-flash",
+  "prompt_path": "task1/prompts/creative_evaluation.txt",
+  "evaluated_at": "2026-09-02T10:09:43.687848+00:00"
+}

@@ -1,0 +1,6 @@
+- adım adım ilerle
+- kullanıcı istemeden sonraki feature'a geçme
+- API key hardcode etme
+- per-theme hardcoding yapma
+- intermediate artifact'ları ileride koru
+- deterministic işlemleri normal kodla, creative/semantic reasoning'i AI ile yap

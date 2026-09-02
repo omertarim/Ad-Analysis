@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_2ebc92fc43861104",
+  "hook_type": "text_overlay_and_reaction",
+  "hook_description": "Relatable Turkish text overlay paired with a comedic sound effect and face-palm reaction.",
+  "first_2_seconds_description": "A man lies down facing the camera under Turkish text overlay while a loud fart sound plays, prompting him to cover his face.",
+  "visual_format": "vertical_selfie",
+  "ugc_style": true,
+  "pacing": "medium",
+  "primary_emotions": [
+    "amusement",
+    "embarrassment"
+  ],
+  "scene_summary": "A young man lying in bed reacts to a prominent fart sound effect with a facepalm, overlaid with humor text.",
+  "characters_count": 1,
+  "text_overlay_present": true,
+  "text_overlay_summary": "Turkish text describing a friend who farts constantly because they are close.",
+  "spoken_dialogue_present": false,
+  "spoken_dialogue_summary": null,
+  "reaction_present": true,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "relatable_text_with_sound_effect",
+  "audio_role": "comedic_sound_effect",
+  "visual_dependency": "medium",
+  "audio_dependency": "high",
+  "analysis_confidence": 0.95
+}

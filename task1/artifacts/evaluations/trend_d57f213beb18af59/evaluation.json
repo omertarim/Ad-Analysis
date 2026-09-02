@@ -1,0 +1,28 @@
+{
+  "trend_id": "trend_d57f213beb18af59",
+  "hook_strength_score": 6.5,
+  "first_seconds_strength_score": 7.0,
+  "royal_match_world_transferability_score": 7.5,
+  "player_intervention_score": 7.0,
+  "gameplay_bridge_score": 7.0,
+  "visual_clarity_score": 8.0,
+  "production_feasibility_score": 9.0,
+  "tonal_fit_score": 8.0,
+  "trend_transferability_score": 7.0,
+  "brand_safety_score": 9.5,
+  "context_dependency_risk": 3.0,
+  "audio_dependency_risk": 2.0,
+  "ip_or_identity_risk": 1.0,
+  "strengths": [
+    "Simple peeking/reveal mechanic creates immediate visual intrigue in the first seconds.",
+    "Easily translates to King Robert spying on a royal crisis or ruined room."
+  ],
+  "concerns": [
+    "Original cultural/event context needs to be stripped away and replaced with castle narrative elements."
+  ],
+  "rejection_reasons": [],
+  "adaptation_idea": "King Robert peeks from behind a velvet royal curtain to reveal a messy or flooded throne room, immediately prompting the player to solve a puzzle and restore the castle.",
+  "evaluation_confidence": 0.9,
+  "overall_score": 7.045,
+  "adaptable": true
+}

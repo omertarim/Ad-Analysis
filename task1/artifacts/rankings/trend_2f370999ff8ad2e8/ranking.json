@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_2f370999ff8ad2e8",
+  "candidate_probability": 0.01,
+  "candidate_rank": 20,
+  "selected_for_multimodal": false,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@mahalleabisi01/video/7670578184298974485",
+  "inference_features": {
+    "views": 3200000.0,
+    "likes": 42300.0,
+    "comments": 513.0,
+    "shares": 9529.0,
+    "saves": 2839.0,
+    "followers": 96300.0,
+    "video_age_days": 25.925839
+  }
+}

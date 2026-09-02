@@ -1,0 +1,10 @@
+{
+  "trend_id": "trend_1f6bd399ad104218",
+  "source_url": "https://www.tiktok.com/@kuhassi/video/7678008545454951701",
+  "source_video_path": "task1/artifacts/raw/trend_1f6bd399ad104218/source.mp4",
+  "analysis_artifact_path": "task1/artifacts/analysis/trend_1f6bd399ad104218/analysis.json",
+  "evaluation_artifact_path": "task1/artifacts/evaluations/trend_1f6bd399ad104218/evaluation.json",
+  "model": "gemini-3.6-flash",
+  "prompt_path": "task1/prompts/creative_evaluation.txt",
+  "evaluated_at": "2026-09-02T10:14:30.931688+00:00"
+}

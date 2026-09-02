@@ -1,0 +1,33 @@
+{
+  "trend_id": "trend_4f9b1e3ae43dbc1e",
+  "hook_strength_score": 4.0,
+  "first_seconds_strength_score": 4.0,
+  "royal_match_world_transferability_score": 2.0,
+  "player_intervention_score": 1.0,
+  "gameplay_bridge_score": 1.0,
+  "visual_clarity_score": 6.0,
+  "production_feasibility_score": 8.0,
+  "tonal_fit_score": 3.0,
+  "trend_transferability_score": 2.0,
+  "brand_safety_score": 9.0,
+  "context_dependency_risk": 8.0,
+  "audio_dependency_risk": 6.0,
+  "ip_or_identity_risk": 1.0,
+  "strengths": [
+    "Simple visual structure that is easy to produce",
+    "Relatable storytelling format on social media"
+  ],
+  "concerns": [
+    "Lacks interactive problem-solving mechanic",
+    "Relies heavily on passive reading of personal story text"
+  ],
+  "rejection_reasons": [
+    "No meaningful player intervention or interactive challenge mechanic",
+    "Extremely weak bridge to match-3 puzzle gameplay",
+    "High context dependency on niche conversational text format"
+  ],
+  "adaptation_idea": null,
+  "evaluation_confidence": 0.95,
+  "overall_score": 2.45,
+  "adaptable": false
+}

@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_ea63f43ea99e77f4",
+  "candidate_probability": 0.106667,
+  "candidate_rank": 4,
+  "selected_for_multimodal": true,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@alzede95/video/7675083374641368327",
+  "inference_features": {
+    "views": 3600000.0,
+    "likes": 74000.0,
+    "comments": 1552.0,
+    "shares": 56800.0,
+    "saves": 6003.0,
+    "followers": 2252.0,
+    "video_age_days": 13.785272
+  }
+}

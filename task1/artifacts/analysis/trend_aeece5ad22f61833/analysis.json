@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_aeece5ad22f61833",
+  "hook_type": "Text overlay",
+  "hook_description": "A young man dances frantically in the back seat following a text caption about losing the front seat.",
+  "first_2_seconds_description": "Camera pans from the car front seats to a young man dancing enthusiastically in the back seat.",
+  "visual_format": "Vertical Video",
+  "ugc_style": true,
+  "pacing": "Fast",
+  "primary_emotions": [
+    "Humor",
+    "Amusement"
+  ],
+  "scene_summary": "Passengers in a moving car's backseat fake an over-the-top party after losing the front seat.",
+  "characters_count": 2,
+  "text_overlay_present": true,
+  "text_overlay_summary": "Lost the front seat war, forced to pretend to have fun in the back.",
+  "spoken_dialogue_present": false,
+  "spoken_dialogue_summary": null,
+  "reaction_present": true,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "Relatable text caption with exaggerated physical reaction inside a car.",
+  "audio_role": "Background Music",
+  "visual_dependency": "High",
+  "audio_dependency": "Low",
+  "analysis_confidence": 0.95
+}

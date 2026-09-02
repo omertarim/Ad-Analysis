@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_bb7240737a364f7d",
+  "hook_type": "Verbal announcement",
+  "hook_description": "Woman excitedly announces her birthday beside a man and a lit birthday cake.",
+  "first_2_seconds_description": "A couple stands in a kitchen behind a candlelit cake while the woman claps and speaks.",
+  "visual_format": "Vertical video",
+  "ugc_style": true,
+  "pacing": "Medium",
+  "primary_emotions": [
+    "Joy",
+    "Excitement"
+  ],
+  "scene_summary": "A woman celebrates her birthday with a companion in a kitchen, making a wish and blowing out cake candles.",
+  "characters_count": 2,
+  "text_overlay_present": false,
+  "text_overlay_summary": null,
+  "spoken_dialogue_present": true,
+  "spoken_dialogue_summary": "Woman says 'It's my birthday!'",
+  "reaction_present": false,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "Birthday wish and candle blow out",
+  "audio_role": "Dialogue and background music",
+  "visual_dependency": "High",
+  "audio_dependency": "Medium",
+  "analysis_confidence": 0.95
+}

@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_4887f73cf1cb1b23",
+  "hook_type": "Visual Gag",
+  "hook_description": "A woman speaks to the camera while balancing a large stone on her head.",
+  "first_2_seconds_description": "An elderly woman wearing a red scarf and glasses speaks to the camera with a rock balanced on her head.",
+  "visual_format": "Talking Head",
+  "ugc_style": true,
+  "pacing": "Medium",
+  "primary_emotions": [
+    "Amusement",
+    "Defiance"
+  ],
+  "scene_summary": "A woman delivers a Turkish proverb to the camera while carrying a heavy stone on her head scarf.",
+  "characters_count": 1,
+  "text_overlay_present": false,
+  "text_overlay_summary": null,
+  "spoken_dialogue_present": true,
+  "spoken_dialogue_summary": "The woman says she can stay under a stone, but never under someone else's words.",
+  "reaction_present": false,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "Literal visual interpretation of a proverb",
+  "audio_role": "Main Content",
+  "visual_dependency": "High",
+  "audio_dependency": "High",
+  "analysis_confidence": 0.95
+}

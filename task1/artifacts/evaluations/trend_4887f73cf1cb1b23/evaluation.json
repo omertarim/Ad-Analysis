@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_4887f73cf1cb1b23",
+  "hook_strength_score": 7.5,
+  "first_seconds_strength_score": 8.0,
+  "royal_match_world_transferability_score": 8.0,
+  "player_intervention_score": 8.5,
+  "gameplay_bridge_score": 8.0,
+  "visual_clarity_score": 9.0,
+  "production_feasibility_score": 9.0,
+  "tonal_fit_score": 8.0,
+  "trend_transferability_score": 7.0,
+  "brand_safety_score": 10.0,
+  "context_dependency_risk": 4.0,
+  "audio_dependency_risk": 3.0,
+  "ip_or_identity_risk": 1.0,
+  "strengths": [
+    "Immediate visual hook featuring absurd physical balance and heavy obstacle gag",
+    "Seamless transition into King Robert trapped under a heavy stone hazard",
+    "Clear call-to-action for match-3 gameplay to break the stone and save the King"
+  ],
+  "concerns": [
+    "Original trend depends heavily on Turkish spoken proverb dialogue which must be ignored in favor of pure visual comedy"
+  ],
+  "rejection_reasons": [],
+  "adaptation_idea": "King Robert humorously balances a massive falling castle stone on his head while crying out for help. Players match hammer and stone tiles in gameplay to shatter the heavy boulder before he collapses.",
+  "evaluation_confidence": 0.9,
+  "overall_score": 7.74,
+  "adaptable": true
+}

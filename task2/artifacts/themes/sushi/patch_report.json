@@ -1,0 +1,21 @@
+{
+  "theme": "sushi",
+  "slug": "sushi",
+  "source_html": "task2/source/RK_SaveTheKing_Playable.html",
+  "output_html": "task2/outputs/sushi.html",
+  "assets_patched": 68,
+  "overrides_applied": [
+    "BannerController.messageText",
+    "BannerController.textColor",
+    "BannerController.backgroundColor",
+    "ConfigurationManager.SoilColorPhase1",
+    "ConfigurationManager.SoilColorPhase2",
+    "ConfigurationManager.SoilColorPhase3",
+    "LayoutController.separatorWallColor",
+    "GameController.layout1Rock1Color",
+    "GameController.layout1Rock2Color",
+    "GameController.layout1Rock3Color",
+    "GameController.layout1Rock4Color"
+  ],
+  "source_sha256": "a8289cbf411c610940b10123ad05c57210c88026e2314f618ed6ad387e54d963"
+}

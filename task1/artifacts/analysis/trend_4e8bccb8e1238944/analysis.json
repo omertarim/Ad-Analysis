@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_4e8bccb8e1238944",
+  "hook_type": "Visual Distortion",
+  "hook_description": "Exaggerated funny face filter with dramatic lip-sync audio.",
+  "first_2_seconds_description": "Person with enlarged eyes filter and crown sways head while lip-syncing.",
+  "visual_format": "Vertical UGC",
+  "ugc_style": true,
+  "pacing": "Fast",
+  "primary_emotions": [
+    "humor",
+    "amusement"
+  ],
+  "scene_summary": "Individual with a tiara distortion filter lip-syncs dramatically to audio text overlay.",
+  "characters_count": 1,
+  "text_overlay_present": true,
+  "text_overlay_summary": "Arabic text depicting a humorous family situation.",
+  "spoken_dialogue_present": true,
+  "spoken_dialogue_summary": "Dramatic Arabic lip-synced audio.",
+  "reaction_present": false,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "Lip-sync with visual filter and situational caption.",
+  "audio_role": "Background lip-sync track",
+  "visual_dependency": "High",
+  "audio_dependency": "High",
+  "analysis_confidence": 0.95
+}

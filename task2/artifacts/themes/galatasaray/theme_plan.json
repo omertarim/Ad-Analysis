@@ -1,0 +1,164 @@
+{
+  "theme": "Galatasaray",
+  "visual_thesis": "A triumphant football stadium visual language featuring Galatasaray signature crimson red and gold lion motifs, glossy metallic badges, leather soccer balls, and stadium turf aesthetics.",
+  "art_style": "Glossy casual-mobile 3D render with polished crimson and vibrant gold lighting, crisp bevels, and vivid high-contrast silhouettes.",
+  "palette": [
+    "#A90429",
+    "#FDB913",
+    "#1A1A1A",
+    "#FFFFFF",
+    "#E54100"
+  ],
+  "banner": {
+    "text": "SAVE THE LION KING!",
+    "text_color": "#FDB913",
+    "background_color": "#A90429"
+  },
+  "overrides": {
+    "soil_color": "#1A1A1A",
+    "separator_wall_color": "#A90429",
+    "rock_colors": [
+      "#A90429",
+      "#FDB913",
+      "#262626",
+      "#E54100"
+    ]
+  },
+  "roles": [
+    {
+      "role_id": "match3_tiles",
+      "concept": "Galatasaray match-3 collectibles including soccer balls, gold lion trophies, and fan crests.",
+      "image_direction": "Glossy casual-mobile 3D standalone icons with true transparent alpha background and distinct visual footprints.",
+      "assets": [
+        {
+          "asset_id": "40474",
+          "concept": "Classic leather soccer ball with crimson and gold panels.",
+          "image_direction": "A glossy spherical soccer ball with red and yellow hexagonal panels. True transparent alpha background."
+        },
+        {
+          "asset_id": "40296",
+          "concept": "Crimson heart jersey badge with gold outline.",
+          "image_direction": "A vibrant red jersey badge in a shield shape with polished gold borders. True transparent alpha background."
+        },
+        {
+          "asset_id": "41918",
+          "concept": "Roaring golden lion head crest.",
+          "image_direction": "A stylized 3D roaring lion head sculpture in polished gold. True transparent alpha background."
+        },
+        {
+          "asset_id": "41826",
+          "concept": "Golden championship star trophy emblem.",
+          "image_direction": "A shiny gold 3D star trophy icon with red enamel center details. True transparent alpha background."
+        },
+        {
+          "asset_id": "43332",
+          "concept": "Vibrant green football pitch icon.",
+          "image_direction": "A green rectangular stadium grass patch icon with white painted goal lines. True transparent alpha background."
+        },
+        {
+          "asset_id": "43744",
+          "concept": "Crimson fan megaphone with gold accents.",
+          "image_direction": "A glossy red stadium megaphone with golden handle and rim trim. True transparent alpha background."
+        },
+        {
+          "asset_id": "39144",
+          "concept": "Sports referee whistle on a golden cord.",
+          "image_direction": "A glossy red and yellow chrome referee whistle hanging on a tiny gold chain loop. True transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "falling_rocks",
+      "concept": "Chunky hexagonal stadium masonry blocks infused with red and yellow metallic veins.",
+      "image_direction": "3D glossy render of a heavy, rounded stadium stone boulder with gold and crimson metallic seams. Chunky footprint. True transparent alpha background.",
+      "assets": []
+    },
+    {
+      "role_id": "snake",
+      "concept": "Threat serpent with Galatasaray yellow and crimson viper scales.",
+      "image_direction": "Top-down red and yellow viper head and scale strip. True transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "37148",
+          "concept": "Fierce crimson viper head with yellow scale accents.",
+          "image_direction": "Top-down view of a roaring red snake head with golden eyes centered in frame. True transparent alpha background."
+        },
+        {
+          "asset_id": "37150",
+          "concept": "Crowned red serpent head with open fangs.",
+          "image_direction": "Symmetrical snake head clad in gold crest trim with open fangs. True transparent alpha background."
+        },
+        {
+          "asset_id": "37152",
+          "concept": "Armored red viper head with lion crown crest.",
+          "image_direction": "Red serpent head adorned with a small golden crown motif. True transparent alpha background."
+        },
+        {
+          "asset_id": "37146",
+          "concept": "Seamless repeating red and yellow snake scale pattern.",
+          "image_direction": "Seamless full-bleed pattern of glossy red and gold reptile scales."
+        }
+      ]
+    },
+    {
+      "role_id": "wall_texture",
+      "concept": "Dark charcoal stadium masonry tileable wall.",
+      "image_direction": "Seamless full-bleed texture of dark charcoal stone brickwork with subtle red mortar ambient glow and low visual noise.",
+      "assets": [
+        {
+          "asset_id": "37162",
+          "concept": "Dark stadium masonry wall fill.",
+          "image_direction": "Seamless full-bleed texture of dark charcoal stone brickwork with subtle red mortar ambient glow and low visual noise."
+        }
+      ]
+    },
+    {
+      "role_id": "spike",
+      "concept": "Vertical gold goalpost capsule bar with crimson trim.",
+      "image_direction": "Tall vertical capsule pin styled like a polished gold goalpost bar with red metallic accents. True transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "37170",
+          "concept": "Gold goalpost dropping pin.",
+          "image_direction": "Tall vertical capsule pin styled like a polished gold goalpost bar with red metallic accents. True transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "tutorial_hand",
+      "concept": "Pointing cartoon hand wearing a Galatasaray wristband.",
+      "image_direction": "Casual 3D pointing white gloved hand with a crimson and yellow striped wristband. True transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "37558",
+          "concept": "Pointing hand with themed wristband.",
+          "image_direction": "Casual 3D pointing white gloved hand with a crimson and yellow striped wristband. True transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "cta_button",
+      "concept": "Glossy red pill CTA button with gold bevel trim.",
+      "image_direction": "Wide pill-shaped button in glossy deep red with bright yellow bevel rim and vibrant sheen. True transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "42896",
+          "concept": "Red and gold CTA pill frame.",
+          "image_direction": "Wide pill-shaped button in glossy deep red with bright yellow bevel rim and vibrant sheen. True transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "game_logo",
+      "concept": "Royal Kingdom emblem recolored in crimson and gold lion crest framing.",
+      "image_direction": "3D badge logo with readable text ROYAL KINGDOM over a crimson red shield flanked by golden lion motifs. True transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "43456",
+          "concept": "Royal Kingdom badge logo in red and gold.",
+          "image_direction": "3D badge logo with readable text ROYAL KINGDOM over a crimson red shield flanked by golden lion motifs. True transparent alpha background."
+        }
+      ]
+    }
+  ]
+}

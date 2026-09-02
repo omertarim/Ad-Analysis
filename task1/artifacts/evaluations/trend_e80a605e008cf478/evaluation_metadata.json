@@ -1,0 +1,10 @@
+{
+  "trend_id": "trend_e80a605e008cf478",
+  "source_url": "https://www.tiktok.com/@tekiryoda/video/7677632470757412114",
+  "source_video_path": "task1/artifacts/raw/trend_e80a605e008cf478/source.mp4",
+  "analysis_artifact_path": "task1/artifacts/analysis/trend_e80a605e008cf478/analysis.json",
+  "evaluation_artifact_path": "task1/artifacts/evaluations/trend_e80a605e008cf478/evaluation.json",
+  "model": "gemini-3.6-flash",
+  "prompt_path": "task1/prompts/creative_evaluation.txt",
+  "evaluated_at": "2026-09-02T10:04:26.063189+00:00"
+}

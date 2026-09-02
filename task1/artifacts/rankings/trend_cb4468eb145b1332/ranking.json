@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_cb4468eb145b1332",
+  "candidate_probability": 0.2,
+  "candidate_rank": 6,
+  "selected_for_multimodal": true,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@cnsuyuunuzz/video/7668386534143364372",
+  "inference_features": {
+    "views": 1400000.0,
+    "likes": 140000.0,
+    "comments": 434.0,
+    "shares": 5298.0,
+    "saves": 7513.0,
+    "followers": 110900.0,
+    "video_age_days": 31.831915
+  }
+}

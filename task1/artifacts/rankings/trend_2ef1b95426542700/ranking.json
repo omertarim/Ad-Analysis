@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_2ef1b95426542700",
+  "candidate_probability": 0.153333,
+  "candidate_rank": 8,
+  "selected_for_multimodal": true,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@sofiaborodinaofficial/video/7676158186407152916",
+  "inference_features": {
+    "views": 4000000.0,
+    "likes": 223200.0,
+    "comments": 968.0,
+    "shares": 31300.0,
+    "saves": 21800.0,
+    "followers": 311900.0,
+    "video_age_days": 10.888872
+  }
+}

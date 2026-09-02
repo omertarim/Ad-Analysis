@@ -1,0 +1,67 @@
+{
+  "dataset_path": "task1/data/training/tiktok_engagement_crawlora.jsonl",
+  "total_row_count": 4509,
+  "usable_row_count": 4509,
+  "unavailable_dropped_fields": [],
+  "dropped_rows": 0,
+  "dropped_reasons": {},
+  "schema_fields": [
+    "author",
+    "comments",
+    "created_at",
+    "engagement_rate",
+    "followers",
+    "keyword",
+    "likes",
+    "niche",
+    "saves",
+    "shares",
+    "video_id",
+    "views"
+  ],
+  "features_used": [
+    "views",
+    "likes",
+    "comments",
+    "shares",
+    "saves",
+    "followers",
+    "video_age_days"
+  ],
+  "target_percentile": 70,
+  "target_engagement_threshold": 0.1561,
+  "class_distribution": {
+    "positive": 1354,
+    "negative": 3155
+  },
+  "train_size": 3607,
+  "test_size": 902,
+  "model_metrics": {
+    "logistic_regression": {
+      "precision": 1.0,
+      "recall": 0.8229,
+      "f1": 0.9028,
+      "roc_auc": 0.9972,
+      "threshold": 0.74
+    },
+    "random_forest": {
+      "precision": 0.847,
+      "recall": 0.8376,
+      "f1": 0.8423,
+      "roc_auc": 0.9643,
+      "threshold": 0.42
+    },
+    "hist_gradient_boosting": {
+      "precision": 0.9605,
+      "recall": 0.8081,
+      "f1": 0.8778,
+      "roc_auc": 0.9902,
+      "threshold": 0.79
+    }
+  },
+  "selected_model": "random_forest",
+  "selection_reason": "Selected by highest recall (0.8376). F1 (0.8423) used as tie-breaker for close recall scores. Target recall 0.85 not met on test split.",
+  "inference_threshold": 0.42,
+  "recall_target": 0.85,
+  "trained_at": "2026-08-31T14:14:15.497840+00:00"
+}

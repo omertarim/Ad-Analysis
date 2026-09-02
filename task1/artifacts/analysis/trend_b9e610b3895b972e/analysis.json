@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_b9e610b3895b972e",
+  "hook_type": "talking_head",
+  "hook_description": "A man in a car directly addresses the camera before cutting to a man celebrating in a suit.",
+  "first_2_seconds_description": "A smiling man speaks inside a car, followed by a quick clip of a man in a suit shouting outdoors.",
+  "visual_format": "vertical",
+  "ugc_style": true,
+  "pacing": "fast",
+  "primary_emotions": [
+    "joy",
+    "excitement"
+  ],
+  "scene_summary": "A creator details preparing, washing, fueling, and decorating a black SUV with flowers and ribbons for a wedding.",
+  "characters_count": 4,
+  "text_overlay_present": true,
+  "text_overlay_summary": "Arabic text overlays describing each step of preparing the car for the newlyweds.",
+  "spoken_dialogue_present": true,
+  "spoken_dialogue_summary": "Man speaks in Arabic explaining the story and plan to prepare the car.",
+  "reaction_present": true,
+  "reveal_present": true,
+  "challenge_present": false,
+  "before_after_present": true,
+  "gameplay_present": false,
+  "trend_mechanic": "vlog storytelling",
+  "audio_role": "soundtrack and dialogue",
+  "visual_dependency": "high",
+  "audio_dependency": "high",
+  "analysis_confidence": 0.95
+}

@@ -1,0 +1,29 @@
+Generate a single finished mobile game ad video.
+Format: vertical 9:16, exactly 8 seconds, fast pacing.
+Character: King Robert must be the main character.
+World: Royal Match-inspired bright stylized 3D castle environment, polished mobile-game ad quality.
+Audio: natural scene sound and music only; NO dialogue, NO voice-over, NO spoken words.
+Narrative: immediate hook in first 2 seconds, clear visual danger/problem, player intervention, satisfying payoff.
+Keep the adaptation very close to the provided trend mechanic and adaptation idea beat-by-beat while remaining Royal Match themed.
+Preserve source trend mechanic: timing a high jump over a moving obstacle.
+Opening hook reference: A person stands on an asphalt road as a black upright suitcase rolls toward them..
+Adaptation idea reference: King Robert stands in a castle hallway as a giant rolling barrel speeds toward him, prompting the player to quickly solve a puzzle to trigger a jump mechanic or block the path..
+King Robert is a cheerful, stocky, middle-aged cartoon king with a large rounded face, warm expressive eyes, a prominent rounded nose, thick white eyebrows, and a full neatly groomed white beard and moustache.
+He wears a large polished golden crown with a prominent red jewel, a royal blue tunic with gold trim and details, a red royal cape, and a bright polished mobile-game royal costume.
+His proportions are stylized and friendly: large expressive head, compact body, rounded silhouette, short sturdy legs, and exaggerated readable facial expressions.
+His visual style should feel like a premium, bright, polished, family-friendly 3D mobile puzzle game character.
+Keep the SAME King Robert appearance consistently throughout the entire video.
+Do not redesign his facial features, crown, beard, costume colors, body proportions, or age between shots.
+ABSOLUTELY NO VISIBLE TEXT OR TYPOGRAPHY OF ANY KIND.
+Do NOT render subtitles, captions, titles, character names, 'King Robert', '9:16', numbers, labels, speech bubbles, UI text, logos, signs, banners containing words, fake letters, gibberish, pseudo-writing, or watermark-like text.
+Do not write '9:16' on screen.
+Do not generate fake subtitles or unreadable text.
+The frame should be driven by visual action, facial expression, and gameplay moments.
+Any communication must be conveyed through facial expression, acting, environment, camera movement and sound, never through spoken language.
+Do not copy creator or celebrity likeness. Do not include TikTok logos. Do not include copyrighted unrelated characters.
+Clean composition, readable motion, game-ad polish.
+Storyboard:
+Shot 1 (0.0-2.0s): A person stands on an asphalt road as a black upright suitcase rolls toward them. | Immediate visual hook with King Robert and visible danger. | overlay_hint: none
+Shot 2 (2.0-4.0s): Danger escalates in the royal castle environment. | Problem worsens fast and stakes become clear. | overlay_hint: none
+Shot 3 (4.0-6.0s): Match-3 board appears as player intervention moment. | Player makes decisive move to save King Robert. | overlay_hint: none
+Shot 4 (6.0-8.0s): Successful rescue payoff with bright celebratory finish. | King Robert stands in a castle hallway as a giant rolling barrel speeds toward him, prompting the player to quickly solve a puzzle to trigger a jump mechanic or block the path. | overlay_hint: none

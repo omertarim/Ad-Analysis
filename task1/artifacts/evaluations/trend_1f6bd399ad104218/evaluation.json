@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_1f6bd399ad104218",
+  "hook_strength_score": 6.5,
+  "first_seconds_strength_score": 7.0,
+  "royal_match_world_transferability_score": 6.5,
+  "player_intervention_score": 7.0,
+  "gameplay_bridge_score": 6.5,
+  "visual_clarity_score": 8.0,
+  "production_feasibility_score": 8.5,
+  "tonal_fit_score": 7.5,
+  "trend_transferability_score": 7.0,
+  "brand_safety_score": 10.0,
+  "context_dependency_risk": 2.0,
+  "audio_dependency_risk": 1.0,
+  "ip_or_identity_risk": 1.0,
+  "strengths": [
+    "Universally relatable physical frustration mechanic with strong visual clarity in the first seconds.",
+    "Easily translated into 3D animation with King Robert in a royal bed or throne setting.",
+    "Low dependency on original audio or identity context."
+  ],
+  "concerns": [
+    "Requires a clear, active player intervention mechanism so the physical annoyance seamlessly transitions into puzzle gameplay."
+  ],
+  "rejection_reasons": [],
+  "adaptation_idea": "Show King Robert trying to play a game in bed while his oversized royal cape constantly flops onto the screen and disrupts his game, prompting the player to intervene and solve the puzzle.",
+  "evaluation_confidence": 0.9,
+  "overall_score": 6.875,
+  "adaptable": true
+}

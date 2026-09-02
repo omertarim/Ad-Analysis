@@ -1,0 +1,1222 @@
+[
+  {
+    "trend_id": "trend_020c66173e78bf24",
+    "candidate_probability": 0.333333,
+    "candidate_rank": 1,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@__kardelenolcay/video/7677711922321493266",
+    "inference_features": {
+      "views": 2100000.0,
+      "likes": 167400.0,
+      "comments": 302.0,
+      "shares": 44100.0,
+      "saves": 11700.0,
+      "followers": 249.0,
+      "video_age_days": 6.701742
+    }
+  },
+  {
+    "trend_id": "trend_068b1a1cbdf8e816",
+    "candidate_probability": 0.43,
+    "candidate_rank": 1,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@theborafr/video/7670978655622974727",
+    "inference_features": {
+      "views": 3900000.0,
+      "likes": 267400.0,
+      "comments": 2910.0,
+      "shares": 87000.0,
+      "saves": 33500.0,
+      "followers": 98900.0,
+      "video_age_days": 24.846626
+    }
+  },
+  {
+    "trend_id": "trend_618638305e52bcaa",
+    "candidate_probability": 0.093333,
+    "candidate_rank": 1,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@_turkishteacher/video/7677666560458247445",
+    "inference_features": {
+      "views": 2200000.0,
+      "likes": 71300.0,
+      "comments": 727.0,
+      "shares": 5991.0,
+      "saves": 10500.0,
+      "followers": 13100.0,
+      "video_age_days": 6.82408
+    }
+  },
+  {
+    "trend_id": "trend_d57f213beb18af59",
+    "candidate_probability": 0.236667,
+    "candidate_rank": 1,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@saffaamuuhamedd/video/7672878262111997204",
+    "inference_features": {
+      "views": 23500000.0,
+      "likes": 2400000.0,
+      "comments": 8314.0,
+      "shares": 71800.0,
+      "saves": 110400.0,
+      "followers": 2400000.0,
+      "video_age_days": 19.727587
+    }
+  },
+  {
+    "trend_id": "trend_029d2a29d130cec9",
+    "candidate_probability": 0.266667,
+    "candidate_rank": 2,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@eminebrkz0/video/7678130019096382728",
+    "inference_features": {
+      "views": 2400000.0,
+      "likes": 179700.0,
+      "comments": 364.0,
+      "shares": 26400.0,
+      "saves": 6159.0,
+      "followers": 575.0,
+      "video_age_days": 5.575145
+    }
+  },
+  {
+    "trend_id": "trend_74c8226a024bfa25",
+    "candidate_probability": 0.12,
+    "candidate_rank": 2,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@hjamal94/video/7677288406363180295",
+    "inference_features": {
+      "views": 3200000.0,
+      "likes": 131400.0,
+      "comments": 1698.0,
+      "shares": 5256.0,
+      "saves": 17700.0,
+      "followers": 37200.0,
+      "video_age_days": 7.843165
+    }
+  },
+  {
+    "trend_id": "trend_efe51cfc94069424",
+    "candidate_probability": 0.38,
+    "candidate_rank": 2,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@noxmer7/video/7678065073578872072",
+    "inference_features": {
+      "views": 6300000.0,
+      "likes": 553400.0,
+      "comments": 1965.0,
+      "shares": 114500.0,
+      "saves": 58100.0,
+      "followers": 23500.0,
+      "video_age_days": 5.750191
+    }
+  },
+  {
+    "trend_id": "trend_aeece5ad22f61833",
+    "candidate_probability": 0.286667,
+    "candidate_rank": 3,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@ben.kakao.sevmem/video/7675664210466196754",
+    "inference_features": {
+      "views": 4900000.0,
+      "likes": 384400.0,
+      "comments": 1110.0,
+      "shares": 61000.0,
+      "saves": 14600.0,
+      "followers": 747.0,
+      "video_age_days": 12.22004
+    }
+  },
+  {
+    "trend_id": "trend_bf2f9b44cee51dbf",
+    "candidate_probability": 0.22,
+    "candidate_rank": 3,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@saklabanmakarna/video/7677287959174860052",
+    "inference_features": {
+      "views": 2400000.0,
+      "likes": 179700.0,
+      "comments": 1538.0,
+      "shares": 15500.0,
+      "saves": 5641.0,
+      "followers": 30400.0,
+      "video_age_days": 7.844369
+    }
+  },
+  {
+    "trend_id": "trend_f831a544cd1ba839",
+    "candidate_probability": 0.106667,
+    "candidate_rank": 3,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@rar_8il/video/7670672618839674133",
+    "inference_features": {
+      "views": 8500000.0,
+      "likes": 305600.0,
+      "comments": 4882.0,
+      "shares": 51400.0,
+      "saves": 19600.0,
+      "followers": 227000.0,
+      "video_age_days": 25.671348
+    }
+  },
+  {
+    "trend_id": "trend_4887f73cf1cb1b23",
+    "candidate_probability": 0.286667,
+    "candidate_rank": 4,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@fenomenteyzeniz/video/7676027797332102420",
+    "inference_features": {
+      "views": 4100000.0,
+      "likes": 223500.0,
+      "comments": 1116.0,
+      "shares": 156300.0,
+      "saves": 15200.0,
+      "followers": 69600.0,
+      "video_age_days": 11.240237
+    }
+  },
+  {
+    "trend_id": "trend_89e4c1ec954bf2ae",
+    "candidate_probability": 0.213333,
+    "candidate_rank": 4,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@nuran.ahin11/video/7677922247532645653",
+    "inference_features": {
+      "views": 3700000.0,
+      "likes": 161400.0,
+      "comments": 3019.0,
+      "shares": 17300.0,
+      "saves": 5196.0,
+      "followers": 14900.0,
+      "video_age_days": 6.135098
+    }
+  },
+  {
+    "trend_id": "trend_ea63f43ea99e77f4",
+    "candidate_probability": 0.106667,
+    "candidate_rank": 4,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@alzede95/video/7675083374641368327",
+    "inference_features": {
+      "views": 3600000.0,
+      "likes": 74000.0,
+      "comments": 1552.0,
+      "shares": 56800.0,
+      "saves": 6003.0,
+      "followers": 2252.0,
+      "video_age_days": 13.785272
+    }
+  },
+  {
+    "trend_id": "trend_2ebc92fc43861104",
+    "candidate_probability": 0.243333,
+    "candidate_rank": 5,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@mcqueeen56/video/7678042099022957831",
+    "inference_features": {
+      "views": 4200000.0,
+      "likes": 271900.0,
+      "comments": 3813.0,
+      "shares": 220400.0,
+      "saves": 12400.0,
+      "followers": 310100.0,
+      "video_age_days": 5.812008
+    }
+  },
+  {
+    "trend_id": "trend_4e8bccb8e1238944",
+    "candidate_probability": 0.096667,
+    "candidate_rank": 5,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@rera287/video/7678127217087450389",
+    "inference_features": {
+      "views": 1300000.0,
+      "likes": 74500.0,
+      "comments": 1297.0,
+      "shares": 10100.0,
+      "saves": 4868.0,
+      "followers": 4503.0,
+      "video_age_days": 5.582679
+    }
+  },
+  {
+    "trend_id": "trend_4f9b1e3ae43dbc1e",
+    "candidate_probability": 0.163333,
+    "candidate_rank": 5,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@ll.ays5e/video/7676923877368319240",
+    "inference_features": {
+      "views": 4100000.0,
+      "likes": 244900.0,
+      "comments": 619.0,
+      "shares": 26500.0,
+      "saves": 10600.0,
+      "followers": 810.0,
+      "video_age_days": 8.825422
+    }
+  },
+  {
+    "trend_id": "trend_22d5e0d160e6cb4b",
+    "candidate_probability": 0.093333,
+    "candidate_rank": 6,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@w__o26/video/7677553004438129940",
+    "inference_features": {
+      "views": 1300000.0,
+      "likes": 66800.0,
+      "comments": 565.0,
+      "shares": 2211.0,
+      "saves": 5211.0,
+      "followers": 1096.0,
+      "video_age_days": 7.13011
+    }
+  },
+  {
+    "trend_id": "trend_92f0ad6c7e6e5744",
+    "candidate_probability": 0.15,
+    "candidate_rank": 6,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@kayabasaks/video/7678021040005745941",
+    "inference_features": {
+      "views": 2900000.0,
+      "likes": 128900.0,
+      "comments": 360.0,
+      "shares": 7240.0,
+      "saves": 4771.0,
+      "followers": 139200.0,
+      "video_age_days": 5.868837
+    }
+  },
+  {
+    "trend_id": "trend_cb4468eb145b1332",
+    "candidate_probability": 0.2,
+    "candidate_rank": 6,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@cnsuyuunuzz/video/7668386534143364372",
+    "inference_features": {
+      "views": 1400000.0,
+      "likes": 140000.0,
+      "comments": 434.0,
+      "shares": 5298.0,
+      "saves": 7513.0,
+      "followers": 110900.0,
+      "video_age_days": 31.831915
+    }
+  },
+  {
+    "trend_id": "trend_4354d0623eecca0a",
+    "candidate_probability": 0.186667,
+    "candidate_rank": 7,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@yagmurgurbuuz/video/7679088830451830036",
+    "inference_features": {
+      "views": 1400000.0,
+      "likes": 84400.0,
+      "comments": 106.0,
+      "shares": 5291.0,
+      "saves": 2339.0,
+      "followers": 1067.0,
+      "video_age_days": 2.991383
+    }
+  },
+  {
+    "trend_id": "trend_b9e610b3895b972e",
+    "candidate_probability": 0.083333,
+    "candidate_rank": 7,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@92.abo/video/7677921347246329106",
+    "inference_features": {
+      "views": 1500000.0,
+      "likes": 85800.0,
+      "comments": 663.0,
+      "shares": 1033.0,
+      "saves": 3317.0,
+      "followers": 20000.0,
+      "video_age_days": 6.137506
+    }
+  },
+  {
+    "trend_id": "trend_bb7240737a364f7d",
+    "candidate_probability": 0.143333,
+    "candidate_rank": 7,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@nilsuyilmaz/video/7675040188715814165",
+    "inference_features": {
+      "views": 9500000.0,
+      "likes": 781000.0,
+      "comments": 2758.0,
+      "shares": 26800.0,
+      "saves": 24200.0,
+      "followers": 472200.0,
+      "video_age_days": 13.901649
+    }
+  },
+  {
+    "trend_id": "trend_1f6bd399ad104218",
+    "candidate_probability": 0.12,
+    "candidate_rank": 8,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@kuhassi/video/7678008545454951701",
+    "inference_features": {
+      "views": 859900.0,
+      "likes": 74500.0,
+      "comments": 454.0,
+      "shares": 6389.0,
+      "saves": 2189.0,
+      "followers": 19300.0,
+      "video_age_days": 5.902517
+    }
+  },
+  {
+    "trend_id": "trend_2ef1b95426542700",
+    "candidate_probability": 0.153333,
+    "candidate_rank": 8,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@sofiaborodinaofficial/video/7676158186407152916",
+    "inference_features": {
+      "views": 4000000.0,
+      "likes": 223200.0,
+      "comments": 968.0,
+      "shares": 31300.0,
+      "saves": 21800.0,
+      "followers": 311900.0,
+      "video_age_days": 10.888872
+    }
+  },
+  {
+    "trend_id": "trend_d30b691b917e5cc3",
+    "candidate_probability": 0.08,
+    "candidate_rank": 8,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@razanko__55/video/7679424334435290388",
+    "inference_features": {
+      "views": 1200000.0,
+      "likes": 32800.0,
+      "comments": 0.0,
+      "shares": 874.0,
+      "saves": 2406.0,
+      "followers": 59800.0,
+      "video_age_days": 2.087251
+    }
+  },
+  {
+    "trend_id": "trend_abb5785595d534fb",
+    "candidate_probability": 0.086667,
+    "candidate_rank": 9,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@bilirkisiburak0/video/7677888793566858517",
+    "inference_features": {
+      "views": 1600000.0,
+      "likes": 16200.0,
+      "comments": 9912.0,
+      "shares": 933.0,
+      "saves": 1321.0,
+      "followers": 13200.0,
+      "video_age_days": 6.225179
+    }
+  },
+  {
+    "trend_id": "trend_c4eb24f5dd0bb588",
+    "candidate_probability": 0.076667,
+    "candidate_rank": 9,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@amero63/video/7671937488486714645",
+    "inference_features": {
+      "views": 2100000.0,
+      "likes": 88100.0,
+      "comments": 886.0,
+      "shares": 17400.0,
+      "saves": 5306.0,
+      "followers": 4183.0,
+      "video_age_days": 22.26276
+    }
+  },
+  {
+    "trend_id": "trend_ec142160f6eaa42b",
+    "candidate_probability": 0.11,
+    "candidate_rank": 9,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@tatlikahvem1/video/7676927661909839112",
+    "inference_features": {
+      "views": 7300000.0,
+      "likes": 88800.0,
+      "comments": 794.0,
+      "shares": 24200.0,
+      "saves": 71300.0,
+      "followers": 9784.0,
+      "video_age_days": 8.815237
+    }
+  },
+  {
+    "trend_id": "trend_2f57d100d8c27e22",
+    "candidate_probability": 0.06,
+    "candidate_rank": 10,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@user2027812543396/video/7678005479641107733",
+    "inference_features": {
+      "views": 1500000.0,
+      "likes": 43000.0,
+      "comments": 1901.0,
+      "shares": 8344.0,
+      "saves": 3030.0,
+      "followers": 9751.0,
+      "video_age_days": 5.910804
+    }
+  },
+  {
+    "trend_id": "trend_dc9b4e08aa3356b0",
+    "candidate_probability": 0.11,
+    "candidate_rank": 10,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@kirmizifrenkirmizibiraa/video/7677691084461378836",
+    "inference_features": {
+      "views": 2400000.0,
+      "likes": 80800.0,
+      "comments": 881.0,
+      "shares": 23500.0,
+      "saves": 4795.0,
+      "followers": 755.0,
+      "video_age_days": 6.757934
+    }
+  },
+  {
+    "trend_id": "trend_e80a605e008cf478",
+    "candidate_probability": 0.073333,
+    "candidate_rank": 10,
+    "selected_for_multimodal": true,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@tekiryoda/video/7677632470757412114",
+    "inference_features": {
+      "views": 830800.0,
+      "likes": 50000.0,
+      "comments": 290.0,
+      "shares": 9884.0,
+      "saves": 2491.0,
+      "followers": 208.0,
+      "video_age_days": 6.915943
+    }
+  },
+  {
+    "trend_id": "trend_0541f556dc6d7df9",
+    "candidate_probability": 0.073333,
+    "candidate_rank": 11,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@mesut_kara0/video/7677930424194059541",
+    "inference_features": {
+      "views": 1400000.0,
+      "likes": 27100.0,
+      "comments": 135.0,
+      "shares": 23900.0,
+      "saves": 3409.0,
+      "followers": 944.0,
+      "video_age_days": 6.113061
+    }
+  },
+  {
+    "trend_id": "trend_45c64add42fa716d",
+    "candidate_probability": 0.093333,
+    "candidate_rank": 11,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@aryusart/video/7676800586888580360",
+    "inference_features": {
+      "views": 2100000.0,
+      "likes": 56100.0,
+      "comments": 1634.0,
+      "shares": 10900.0,
+      "saves": 1639.0,
+      "followers": 244.0,
+      "video_age_days": 9.157749
+    }
+  },
+  {
+    "trend_id": "trend_641480cd9b250a0d",
+    "candidate_probability": 0.053333,
+    "candidate_rank": 11,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@4.0wk/video/7676772177848306965",
+    "inference_features": {
+      "views": 1700000.0,
+      "likes": 34900.0,
+      "comments": 130.0,
+      "shares": 376.0,
+      "saves": 1528.0,
+      "followers": 3194.0,
+      "video_age_days": 9.234242
+    }
+  },
+  {
+    "trend_id": "trend_655e857f1fbe1921",
+    "candidate_probability": 0.046667,
+    "candidate_rank": 12,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@zs1035/video/7679248566845541640",
+    "inference_features": {
+      "views": 1000000.0,
+      "likes": 44000.0,
+      "comments": 1898.0,
+      "shares": 2284.0,
+      "saves": 2530.0,
+      "followers": 313300.0,
+      "video_age_days": 2.560862
+    }
+  },
+  {
+    "trend_id": "trend_a15574145ec529cd",
+    "candidate_probability": 0.066667,
+    "candidate_rank": 12,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@sinemm_0.7/video/7677581792525700359",
+    "inference_features": {
+      "views": 754900.0,
+      "likes": 33300.0,
+      "comments": 215.0,
+      "shares": 6291.0,
+      "saves": 554.0,
+      "followers": 1134.0,
+      "video_age_days": 7.052506
+    }
+  },
+  {
+    "trend_id": "trend_b0c7ed769d6de842",
+    "candidate_probability": 0.09,
+    "candidate_rank": 12,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@bilirkisiburak0/video/7677272660723682581",
+    "inference_features": {
+      "views": 2800000.0,
+      "likes": 29000.0,
+      "comments": 12000.0,
+      "shares": 1573.0,
+      "saves": 2569.0,
+      "followers": 13200.0,
+      "video_age_days": 7.885561
+    }
+  },
+  {
+    "trend_id": "trend_0c8a9b0ef1d55c3f",
+    "candidate_probability": 0.08,
+    "candidate_rank": 13,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@adawnzn/video/7678750658689879316",
+    "inference_features": {
+      "views": 2100000.0,
+      "likes": 87300.0,
+      "comments": 1400.0,
+      "shares": 25700.0,
+      "saves": 2961.0,
+      "followers": 27800.0,
+      "video_age_days": 3.902679
+    }
+  },
+  {
+    "trend_id": "trend_526bda36d4bd0b61",
+    "candidate_probability": 0.033333,
+    "candidate_rank": 13,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@kayexc1_/video/7677176732738145543",
+    "inference_features": {
+      "views": 5300000.0,
+      "likes": 38500.0,
+      "comments": 604.0,
+      "shares": 3825.0,
+      "saves": 2006.0,
+      "followers": 14400.0,
+      "video_age_days": 8.144115
+    }
+  },
+  {
+    "trend_id": "trend_f564c4755bd77b92",
+    "candidate_probability": 0.063333,
+    "candidate_rank": 13,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@ogzspy01/video/7679739254569815303",
+    "inference_features": {
+      "views": 667800.0,
+      "likes": 10700.0,
+      "comments": 34.0,
+      "shares": 934.0,
+      "saves": 418.0,
+      "followers": 159700.0,
+      "video_age_days": 1.238513
+    }
+  },
+  {
+    "trend_id": "trend_2dd7a1f3ed40c282",
+    "candidate_probability": 0.07,
+    "candidate_rank": 14,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@sultan_erdal_/video/7676538356183977224",
+    "inference_features": {
+      "views": 7600000.0,
+      "likes": 122400.0,
+      "comments": 1772.0,
+      "shares": 7506.0,
+      "saves": 6741.0,
+      "followers": 455100.0,
+      "video_age_days": 9.864369
+    }
+  },
+  {
+    "trend_id": "trend_476d3272634d8ca9",
+    "candidate_probability": 0.033333,
+    "candidate_rank": 14,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@r.o.klo/video/7676533966295387413",
+    "inference_features": {
+      "views": 1600000.0,
+      "likes": 45000.0,
+      "comments": 1367.0,
+      "shares": 5047.0,
+      "saves": 2359.0,
+      "followers": 170400.0,
+      "video_age_days": 9.876209
+    }
+  },
+  {
+    "trend_id": "trend_a641b0fdbae20af8",
+    "candidate_probability": 0.056667,
+    "candidate_rank": 14,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@kemal.kndmr/video/7678040476917779733",
+    "inference_features": {
+      "views": 1400000.0,
+      "likes": 47400.0,
+      "comments": 75.0,
+      "shares": 454.0,
+      "saves": 1679.0,
+      "followers": 35900.0,
+      "video_age_days": 5.816453
+    }
+  },
+  {
+    "trend_id": "trend_3e996eb1ccb72f8b",
+    "candidate_probability": 0.056667,
+    "candidate_rank": 15,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@can.kara960/video/7678825916402912533",
+    "inference_features": {
+      "views": 1400000.0,
+      "likes": 31200.0,
+      "comments": 290.0,
+      "shares": 9547.0,
+      "saves": 990.0,
+      "followers": 83.0,
+      "video_age_days": 3.699844
+    }
+  },
+  {
+    "trend_id": "trend_8fceab91a348d66b",
+    "candidate_probability": 0.02,
+    "candidate_rank": 15,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@usertgg8mg5hbl/video/7678258354728488213",
+    "inference_features": {
+      "views": 1100000.0,
+      "likes": 16400.0,
+      "comments": 141.0,
+      "shares": 150.0,
+      "saves": 734.0,
+      "followers": 64300.0,
+      "video_age_days": 5.229323
+    }
+  },
+  {
+    "trend_id": "trend_f36f9ab8c52dce1c",
+    "candidate_probability": 0.063333,
+    "candidate_rank": 15,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@sisterss.team/video/7677657949233237268",
+    "inference_features": {
+      "views": 4300000.0,
+      "likes": 83800.0,
+      "comments": 3388.0,
+      "shares": 2979.0,
+      "saves": 4948.0,
+      "followers": 1200000.0,
+      "video_age_days": 6.847274
+    }
+  },
+  {
+    "trend_id": "trend_2e16675a16777b61",
+    "candidate_probability": 0.053333,
+    "candidate_rank": 16,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@fratkmru/video/7678378842129534229",
+    "inference_features": {
+      "views": 3800000.0,
+      "likes": 104000.0,
+      "comments": 678.0,
+      "shares": 2795.0,
+      "saves": 4297.0,
+      "followers": 2300000.0,
+      "video_age_days": 4.904647
+    }
+  },
+  {
+    "trend_id": "trend_45f48015cbe534a3",
+    "candidate_probability": 0.02,
+    "candidate_rank": 16,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@okx1x/video/7676862897896639761",
+    "inference_features": {
+      "views": 3100000.0,
+      "likes": 36600.0,
+      "comments": 641.0,
+      "shares": 485.0,
+      "saves": 1976.0,
+      "followers": 1700000.0,
+      "video_age_days": 8.989485
+    }
+  },
+  {
+    "trend_id": "trend_4ffbb8f1eaa3ee45",
+    "candidate_probability": 0.06,
+    "candidate_rank": 16,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@rdvan.sah/video/7675812002991852821",
+    "inference_features": {
+      "views": 4000000.0,
+      "likes": 68100.0,
+      "comments": 1714.0,
+      "shares": 11900.0,
+      "saves": 5173.0,
+      "followers": 756100.0,
+      "video_age_days": 11.821661
+    }
+  },
+  {
+    "trend_id": "trend_282517cfd75a0cab",
+    "candidate_probability": 0.02,
+    "candidate_rank": 17,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@laithouday.1/video/7669727487215062292",
+    "inference_features": {
+      "views": 1900000.0,
+      "likes": 47100.0,
+      "comments": 816.0,
+      "shares": 24400.0,
+      "saves": 3902.0,
+      "followers": 68000.0,
+      "video_age_days": 28.21827
+    }
+  },
+  {
+    "trend_id": "trend_be5e78baaf53f189",
+    "candidate_probability": 0.03,
+    "candidate_rank": 17,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@nevarburd4/video/7677015264373853448",
+    "inference_features": {
+      "views": 1100000.0,
+      "likes": 8829.0,
+      "comments": 75.0,
+      "shares": 567.0,
+      "saves": 861.0,
+      "followers": 1796.0,
+      "video_age_days": 8.579184
+    }
+  },
+  {
+    "trend_id": "trend_d6485f9d97925364",
+    "candidate_probability": 0.05,
+    "candidate_rank": 17,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@apex64203/video/7679182555161103637",
+    "inference_features": {
+      "views": 2700000.0,
+      "likes": 27300.0,
+      "comments": 1472.0,
+      "shares": 6243.0,
+      "saves": 3143.0,
+      "followers": 821.0,
+      "video_age_days": 2.738721
+    }
+  },
+  {
+    "trend_id": "trend_1f1af415ba951231",
+    "candidate_probability": 0.033333,
+    "candidate_rank": 18,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@baran_sampasly/video/7677991107166211336",
+    "inference_features": {
+      "views": 1600000.0,
+      "likes": 15600.0,
+      "comments": 826.0,
+      "shares": 905.0,
+      "saves": 1121.0,
+      "followers": 56900.0,
+      "video_age_days": 5.949531
+    }
+  },
+  {
+    "trend_id": "trend_6642e686a1a3aadf",
+    "candidate_probability": 0.013333,
+    "candidate_rank": 18,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@mmmmm642021/video/7677170972843150600",
+    "inference_features": {
+      "views": 1600000.0,
+      "likes": 24800.0,
+      "comments": 311.0,
+      "shares": 4048.0,
+      "saves": 1993.0,
+      "followers": 6664.0,
+      "video_age_days": 8.159601
+    }
+  },
+  {
+    "trend_id": "trend_67e5fea73ce39cca",
+    "candidate_probability": 0.023333,
+    "candidate_rank": 18,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@kokorecitekinusta/video/7678735684051553543",
+    "inference_features": {
+      "views": 4800000.0,
+      "likes": 21800.0,
+      "comments": 227.0,
+      "shares": 2114.0,
+      "saves": 2601.0,
+      "followers": 719100.0,
+      "video_age_days": 3.943038
+    }
+  },
+  {
+    "trend_id": "trend_4655d6635579b0d7",
+    "candidate_probability": 0.013333,
+    "candidate_rank": 19,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@kkkkkkkkhhd/video/7672690286551665938",
+    "inference_features": {
+      "views": 1500000.0,
+      "likes": 26500.0,
+      "comments": 849.0,
+      "shares": 24700.0,
+      "saves": 2460.0,
+      "followers": 4256.0,
+      "video_age_days": 20.234115
+    }
+  },
+  {
+    "trend_id": "trend_793445c77377902e",
+    "candidate_probability": 0.02,
+    "candidate_rank": 19,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@wetmonsui/video/7677551653750394133",
+    "inference_features": {
+      "views": 1500000.0,
+      "likes": 30000.0,
+      "comments": 332.0,
+      "shares": 1115.0,
+      "saves": 1463.0,
+      "followers": 32500.0,
+      "video_age_days": 7.133744
+    }
+  },
+  {
+    "trend_id": "trend_b6415d92d10d3f97",
+    "candidate_probability": 0.023333,
+    "candidate_rank": 19,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@guneyolimpikgsk/video/7678396095784865044",
+    "inference_features": {
+      "views": 2500000.0,
+      "likes": 42600.0,
+      "comments": 622.0,
+      "shares": 2847.0,
+      "saves": 3656.0,
+      "followers": 94700.0,
+      "video_age_days": 4.858119
+    }
+  },
+  {
+    "trend_id": "trend_2f370999ff8ad2e8",
+    "candidate_probability": 0.01,
+    "candidate_rank": 20,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@mahalleabisi01/video/7670578184298974485",
+    "inference_features": {
+      "views": 3200000.0,
+      "likes": 42300.0,
+      "comments": 513.0,
+      "shares": 9529.0,
+      "saves": 2839.0,
+      "followers": 96300.0,
+      "video_age_days": 25.925839
+    }
+  },
+  {
+    "trend_id": "trend_53788ff1403ee209",
+    "candidate_probability": 0.006667,
+    "candidate_rank": 20,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@ezmevc/video/7678270051560049928",
+    "inference_features": {
+      "views": 1200000.0,
+      "likes": 39000.0,
+      "comments": 830.0,
+      "shares": 34500.0,
+      "saves": 3831.0,
+      "followers": 19900.0,
+      "video_age_days": 5.197807
+    }
+  },
+  {
+    "trend_id": "trend_7d13dd4ebe382302",
+    "candidate_probability": 0.02,
+    "candidate_rank": 20,
+    "selected_for_multimodal": false,
+    "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+    "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+    "inference_threshold": 0.41999999999999993,
+    "selection_mode": "top_percent",
+    "source_url": "https://www.tiktok.com/@sarmisakbey/video/7677201653333806344",
+    "inference_features": {
+      "views": 2100000.0,
+      "likes": 30600.0,
+      "comments": 193.0,
+      "shares": 695.0,
+      "saves": 2128.0,
+      "followers": 22700.0,
+      "video_age_days": 8.051568
+    }
+  }
+]

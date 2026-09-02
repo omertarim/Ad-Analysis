@@ -1,0 +1,9 @@
+{
+  "trend_id": "trend_bf2f9b44cee51dbf",
+  "model": "gemini-3.6-flash",
+  "prompt_file": "task1/prompts/video_analysis.txt",
+  "source_video": "task1/artifacts/raw/trend_bf2f9b44cee51dbf/source.mp4",
+  "analysis_file": "task1/artifacts/analysis/trend_bf2f9b44cee51dbf/analysis.json",
+  "analyzed_at": "2026-09-02T10:12:32.457537+00:00",
+  "provider": "google_gemini"
+}

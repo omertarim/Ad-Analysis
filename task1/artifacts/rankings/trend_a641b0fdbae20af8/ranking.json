@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_a641b0fdbae20af8",
+  "candidate_probability": 0.056667,
+  "candidate_rank": 14,
+  "selected_for_multimodal": false,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@kemal.kndmr/video/7678040476917779733",
+  "inference_features": {
+    "views": 1400000.0,
+    "likes": 47400.0,
+    "comments": 75.0,
+    "shares": 454.0,
+    "saves": 1679.0,
+    "followers": 35900.0,
+    "video_age_days": 5.816453
+  }
+}

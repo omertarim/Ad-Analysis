@@ -1,0 +1,32 @@
+{
+  "trend_id": "trend_2ebc92fc43861104",
+  "hook_strength_score": 5.0,
+  "first_seconds_strength_score": 5.0,
+  "royal_match_world_transferability_score": 3.0,
+  "player_intervention_score": 2.0,
+  "gameplay_bridge_score": 2.0,
+  "visual_clarity_score": 6.0,
+  "production_feasibility_score": 8.0,
+  "tonal_fit_score": 3.0,
+  "trend_transferability_score": 3.0,
+  "brand_safety_score": 7.0,
+  "context_dependency_risk": 6.0,
+  "audio_dependency_risk": 8.0,
+  "ip_or_identity_risk": 1.0,
+  "strengths": [
+    "Immediate audio-driven reaction hook in first seconds",
+    "High simplicity and ease of production"
+  ],
+  "concerns": [
+    "Crude bodily sound humor has poor tonal alignment with Royal Match aesthetic",
+    "Heavy reliance on audio effect and text overlay context"
+  ],
+  "rejection_reasons": [
+    "Lacks a natural bridge to match-3 puzzle gameplay or player intervention mechanics",
+    "Weak transferability to the Royal Match castle environment and King Robert dynamic"
+  ],
+  "adaptation_idea": "King Robert reacts with dismay as smelly green gas leaks into his throne room, prompting players to swipe tiles to clear the hazards before he passes out.",
+  "evaluation_confidence": 0.9,
+  "overall_score": 3.19,
+  "adaptable": false
+}

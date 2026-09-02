@@ -1,0 +1,10 @@
+{
+  "trend_id": "trend_bb7240737a364f7d",
+  "source_url": "https://www.tiktok.com/@nilsuyilmaz/video/7675040188715814165",
+  "source_video_path": "task1/artifacts/raw/trend_bb7240737a364f7d/source.mp4",
+  "analysis_artifact_path": "task1/artifacts/analysis/trend_bb7240737a364f7d/analysis.json",
+  "evaluation_artifact_path": "task1/artifacts/evaluations/trend_bb7240737a364f7d/evaluation.json",
+  "model": "gemini-3.6-flash",
+  "prompt_path": "task1/prompts/creative_evaluation.txt",
+  "evaluated_at": "2026-09-02T10:14:07.998303+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "trend_id": "trend_efe51cfc94069424",
+  "source_url": "https://www.tiktok.com/@noxmer7/video/7678065073578872072",
+  "source_video_path": "task1/artifacts/raw/trend_efe51cfc94069424/source.mp4",
+  "analysis_artifact_path": "task1/artifacts/analysis/trend_efe51cfc94069424/analysis.json",
+  "evaluation_artifact_path": "task1/artifacts/evaluations/trend_efe51cfc94069424/evaluation.json",
+  "model": "gemini-3.6-flash",
+  "prompt_path": "task1/prompts/creative_evaluation.txt",
+  "evaluated_at": "2026-09-02T10:01:44.853738+00:00"
+}

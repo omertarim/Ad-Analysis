@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_abb5785595d534fb",
+  "hook_strength_score": 5.5,
+  "first_seconds_strength_score": 5.0,
+  "royal_match_world_transferability_score": 4.0,
+  "player_intervention_score": 5.0,
+  "gameplay_bridge_score": 3.5,
+  "visual_clarity_score": 8.0,
+  "production_feasibility_score": 8.5,
+  "tonal_fit_score": 5.0,
+  "trend_transferability_score": 4.5,
+  "brand_safety_score": 9.0,
+  "context_dependency_risk": 5.0,
+  "audio_dependency_risk": 2.0,
+  "ip_or_identity_risk": 4.0,
+  "strengths": [
+    "Engaging timed quiz mechanic that creates instant viewer curiosity",
+    "High visual clarity with incremental counter overlay and direct visual progression"
+  ],
+  "concerns": [
+    "Celebrity photo recognition mechanic does not naturally bridge to match-3 gameplay",
+    "Royal Match characters lack real-world growth timeline context"
+  ],
+  "rejection_reasons": [],
+  "adaptation_idea": "Adapt into a rapid transformation quiz showing King Robert changing costumes or ages, prompting viewers to tap the correct missing puzzle piece before time runs out to rescue him.",
+  "evaluation_confidence": 0.9,
+  "overall_score": 4.585,
+  "adaptable": false
+}

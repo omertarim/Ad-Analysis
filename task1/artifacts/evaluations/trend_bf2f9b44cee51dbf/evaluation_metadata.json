@@ -1,0 +1,10 @@
+{
+  "trend_id": "trend_bf2f9b44cee51dbf",
+  "source_url": "https://www.tiktok.com/@saklabanmakarna/video/7677287959174860052",
+  "source_video_path": "task1/artifacts/raw/trend_bf2f9b44cee51dbf/source.mp4",
+  "analysis_artifact_path": "task1/artifacts/analysis/trend_bf2f9b44cee51dbf/analysis.json",
+  "evaluation_artifact_path": "task1/artifacts/evaluations/trend_bf2f9b44cee51dbf/evaluation.json",
+  "model": "gemini-3.6-flash",
+  "prompt_path": "task1/prompts/creative_evaluation.txt",
+  "evaluated_at": "2026-09-02T10:12:40.283744+00:00"
+}

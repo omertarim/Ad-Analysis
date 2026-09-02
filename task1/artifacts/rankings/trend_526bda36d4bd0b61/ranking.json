@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_526bda36d4bd0b61",
+  "candidate_probability": 0.033333,
+  "candidate_rank": 13,
+  "selected_for_multimodal": false,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@kayexc1_/video/7677176732738145543",
+  "inference_features": {
+    "views": 5300000.0,
+    "likes": 38500.0,
+    "comments": 604.0,
+    "shares": 3825.0,
+    "saves": 2006.0,
+    "followers": 14400.0,
+    "video_age_days": 8.144115
+  }
+}

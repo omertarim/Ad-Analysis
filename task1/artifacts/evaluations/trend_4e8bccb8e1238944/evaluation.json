@@ -1,0 +1,31 @@
+{
+  "trend_id": "trend_4e8bccb8e1238944",
+  "hook_strength_score": 5.5,
+  "first_seconds_strength_score": 5.5,
+  "royal_match_world_transferability_score": 4.5,
+  "player_intervention_score": 2.0,
+  "gameplay_bridge_score": 2.5,
+  "visual_clarity_score": 7.0,
+  "production_feasibility_score": 6.5,
+  "tonal_fit_score": 5.5,
+  "trend_transferability_score": 3.5,
+  "brand_safety_score": 9.5,
+  "context_dependency_risk": 7.5,
+  "audio_dependency_risk": 8.5,
+  "ip_or_identity_risk": 1.5,
+  "strengths": [
+    "Immediate visual hook using face distortion filter",
+    "Playful visual humor with royal crown/tiara aesthetic"
+  ],
+  "concerns": [
+    "Lacks a natural interactive mechanic or player choice",
+    "Heavy reliance on localized audio track and spoken dialogue context"
+  ],
+  "rejection_reasons": [
+    "Trend relies heavily on audio lip-syncing and specific regional context with low gameplay bridge potential"
+  ],
+  "adaptation_idea": "Apply a comical exaggerated face distortion filter onto 3D King Robert reacting dramatically to a royal disaster before transitioning into a puzzle rescue.",
+  "evaluation_confidence": 0.9,
+  "overall_score": 3.765,
+  "adaptable": false
+}

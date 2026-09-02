@@ -1,0 +1,10 @@
+{
+  "trend_id": "trend_cb4468eb145b1332",
+  "source_url": "https://www.tiktok.com/@cnsuyuunuzz/video/7668386534143364372",
+  "source_video_path": "task1/artifacts/raw/trend_cb4468eb145b1332/source.mp4",
+  "analysis_artifact_path": "task1/artifacts/analysis/trend_cb4468eb145b1332/analysis.json",
+  "evaluation_artifact_path": "task1/artifacts/evaluations/trend_cb4468eb145b1332/evaluation.json",
+  "model": "gemini-3.6-flash",
+  "prompt_path": "task1/prompts/creative_evaluation.txt",
+  "evaluated_at": "2026-09-02T10:03:03.175853+00:00"
+}

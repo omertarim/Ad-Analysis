@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_8fceab91a348d66b",
+  "candidate_probability": 0.02,
+  "candidate_rank": 15,
+  "selected_for_multimodal": false,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@usertgg8mg5hbl/video/7678258354728488213",
+  "inference_features": {
+    "views": 1100000.0,
+    "likes": 16400.0,
+    "comments": 141.0,
+    "shares": 150.0,
+    "saves": 734.0,
+    "followers": 64300.0,
+    "video_age_days": 5.229323
+  }
+}

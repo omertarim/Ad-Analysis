@@ -1,0 +1,29 @@
+{
+  "trend_id": "trend_020c66173e78bf24",
+  "hook_type": "Dialogue/Comedy Hook",
+  "hook_description": "A bride playfully counts out gold bangles to split them with the groom.",
+  "first_2_seconds_description": "A woman in a white strapless dress sits by a ottoman dividing four gold bangles with a man.",
+  "visual_format": "Vertical UGC Video",
+  "ugc_style": true,
+  "pacing": "Medium",
+  "primary_emotions": [
+    "Amused",
+    "Playful"
+  ],
+  "scene_summary": "A couple in formal attire sits on the floor room, humorously bargaining over gold bracelets.",
+  "characters_count": 2,
+  "text_overlay_present": false,
+  "text_overlay_summary": null,
+  "spoken_dialogue_present": true,
+  "spoken_dialogue_summary": "The couple counts and bargains over gold bangles in Turkish.",
+  "reaction_present": true,
+  "reveal_present": false,
+  "challenge_present": false,
+  "before_after_present": false,
+  "gameplay_present": false,
+  "trend_mechanic": "Playful argument over wedding gold distribution using a counting banter template.",
+  "audio_role": "Dialogue",
+  "visual_dependency": "Medium",
+  "audio_dependency": "High",
+  "analysis_confidence": 0.95
+}

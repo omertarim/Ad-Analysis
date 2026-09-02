@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_efe51cfc94069424",
+  "candidate_probability": 0.38,
+  "candidate_rank": 2,
+  "selected_for_multimodal": true,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@noxmer7/video/7678065073578872072",
+  "inference_features": {
+    "views": 6300000.0,
+    "likes": 553400.0,
+    "comments": 1965.0,
+    "shares": 114500.0,
+    "saves": 58100.0,
+    "followers": 23500.0,
+    "video_age_days": 5.750191
+  }
+}

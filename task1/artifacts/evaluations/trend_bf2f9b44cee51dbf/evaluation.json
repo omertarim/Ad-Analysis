@@ -1,0 +1,30 @@
+{
+  "trend_id": "trend_bf2f9b44cee51dbf",
+  "hook_strength_score": 6.0,
+  "first_seconds_strength_score": 5.5,
+  "royal_match_world_transferability_score": 7.0,
+  "player_intervention_score": 6.5,
+  "gameplay_bridge_score": 6.5,
+  "visual_clarity_score": 8.0,
+  "production_feasibility_score": 8.5,
+  "tonal_fit_score": 7.5,
+  "trend_transferability_score": 6.5,
+  "brand_safety_score": 10.0,
+  "context_dependency_risk": 3.0,
+  "audio_dependency_risk": 2.0,
+  "ip_or_identity_risk": 1.0,
+  "strengths": [
+    "Universal comedic premise of late-night hunger and caretaking",
+    "Easy to adapt into a King Robert problem scenario requiring player assistance",
+    "Low audio and IP dependency"
+  ],
+  "concerns": [
+    "Selfie vlog framing requires translation into Royal Match animated style",
+    "Requires careful puzzle framing to avoid feeling like a generic cooking ad"
+  ],
+  "rejection_reasons": [],
+  "adaptation_idea": "Show King Robert sneaking into the royal kitchen starving at 3 AM, prompting the player to solve a match-3 puzzle to prepare his meal before time runs out.",
+  "evaluation_confidence": 0.9,
+  "overall_score": 6.52,
+  "adaptable": true
+}

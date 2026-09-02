@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_618638305e52bcaa",
+  "candidate_probability": 0.093333,
+  "candidate_rank": 1,
+  "selected_for_multimodal": true,
+  "model_version": "random_forest:2026-08-31T14:14:15.497840+00:00",
+  "model_path": "task1/artifacts/models/candidate_ranker.joblib",
+  "inference_threshold": 0.41999999999999993,
+  "selection_mode": "top_percent",
+  "source_url": "https://www.tiktok.com/@_turkishteacher/video/7677666560458247445",
+  "inference_features": {
+    "views": 2200000.0,
+    "likes": 71300.0,
+    "comments": 727.0,
+    "shares": 5991.0,
+    "saves": 10500.0,
+    "followers": 13100.0,
+    "video_age_days": 6.82408
+  }
+}

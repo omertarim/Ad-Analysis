@@ -1,0 +1,165 @@
+{
+  "theme": "sushi",
+  "visual_thesis": "A vibrant Japanese sushi kitchen bar aesthetic featuring glossy nigiri, dark nori rolls, bamboo tatami mats, and polished lacquerware.",
+  "art_style": "Glossy casual 3D render with vibrant colors, soft ambient occlusion, and clean rim lighting",
+  "palette": [
+    "#1B1B1B",
+    "#E83A25",
+    "#F7F5EC",
+    "#2E6B34",
+    "#FF9B26",
+    "#D62828"
+  ],
+  "banner": {
+    "text": "SAVE THE KING FROM THE WASABI",
+    "text_color": "#FFFFFF",
+    "background_color": "#E83A25"
+  },
+  "overrides": {
+    "soil_color": "#1B1B1B",
+    "separator_wall_color": "#D62828",
+    "rock_colors": [
+      "#F7F5EC",
+      "#E83A25",
+      "#2E6B34",
+      "#FF9B26"
+    ]
+  },
+  "roles": [
+    {
+      "role_id": "match3_tiles",
+      "concept": "Glossy fresh sushi delicacies and Japanese dining icons as vibrant match-3 pieces.",
+      "image_direction": "3D stylized glossy sushi icons, high contrast, vibrant lighting, centered layout, true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "40474",
+          "concept": "Salmon Nigiri",
+          "image_direction": "Glossy orange salmon slice over compact rice ball, top-front angle, isolated on true transparent alpha background."
+        },
+        {
+          "asset_id": "40296",
+          "concept": "Tuna Sashimi Roll",
+          "image_direction": "Bright red tuna maki roll wrapped in dark nori seaweed, isolated on true transparent alpha background."
+        },
+        {
+          "asset_id": "41918",
+          "concept": "Tamago Egg Nigiri",
+          "image_direction": "Golden yellow sweet egg omelet tied to rice with a thin nori strip, isolated on true transparent alpha background."
+        },
+        {
+          "asset_id": "41826",
+          "concept": "Eel Unagi Nigiri",
+          "image_direction": "Glazed dark purple-brown grilled eel with sweet soy shine on rice, isolated on true transparent alpha background."
+        },
+        {
+          "asset_id": "43332",
+          "concept": "Edamame Pod",
+          "image_direction": "Bright green plump edamame soybean pod with three curved beans, isolated on true transparent alpha background."
+        },
+        {
+          "asset_id": "43744",
+          "concept": "Pickled Ginger Rose",
+          "image_direction": "Delicate pink pickled ginger folded into a blooming rose shape, isolated on true transparent alpha background."
+        },
+        {
+          "asset_id": "39144",
+          "concept": "Wasabi Dollop",
+          "image_direction": "Vibrant lime green star-piped fresh wasabi swirl, isolated on true transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "falling_rocks",
+      "concept": "Chunky rice ball boulders rolled tightly with sesame seeds and nori bits.",
+      "image_direction": "Chunky spherical sumeshi rice ball with rounded irregular edges and dark nori patches, soft 3D studio light, true transparent alpha background.",
+      "assets": []
+    },
+    {
+      "role_id": "snake",
+      "concept": "A fierce Moray Eel threat made of rolled nori and glowing dragon eyes.",
+      "image_direction": "Stylized sushi eel monster creature head centered in frame, menacing dark green nori body and glowing yellow eyes, true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "37148",
+          "concept": "Sushi Dragon Head Open Mouth",
+          "image_direction": "Menacing dark green sushi eel head with open mouth showing wasabi fangs, centered frame, true transparent alpha background."
+        },
+        {
+          "asset_id": "37150",
+          "concept": "Sushi Dragon Head Snarl",
+          "image_direction": "Threatening sushi eel head snarling forward, centered frame, true transparent alpha background."
+        },
+        {
+          "asset_id": "37152",
+          "concept": "Sushi Dragon Head Neutral",
+          "image_direction": "Sleek dark green sushi eel head facing forward, centered frame, true transparent alpha background."
+        },
+        {
+          "asset_id": "37146",
+          "concept": "Nori Eel Scale Body Strip",
+          "image_direction": "Repeating dark nori texture strip with green eel scales and soy highlights, true transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "wall_texture",
+      "concept": "Dark polished lacquer wood wall with faint woven bamboo mat texture.",
+      "image_direction": "Dark brown polished wooden planks with subtle woven bamboo lattice, seamless full-bleed texture.",
+      "assets": [
+        {
+          "asset_id": "37162",
+          "concept": "Dark Lacquer Bamboo Wall",
+          "image_direction": "Dark brown glossy lacquer texture overlaid with subtle woven tatami bamboo grid, seamless full-bleed texture."
+        }
+      ]
+    },
+    {
+      "role_id": "spike",
+      "concept": "Polished lacquer wooden chopstick pin with golden decorative band.",
+      "image_direction": "Tall thin vertical dark wood chopstick with tapered tip and gold rim near top, strict vertical capsule silhouette, true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "37170",
+          "concept": "Wooden Chopstick Pin",
+          "image_direction": "Tall thin vertical dark cherrywood chopstick with golden accent band, strict vertical capsule silhouette, true transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "tutorial_hand",
+      "concept": "Pointing hand wearing a traditional white sushi chef coat sleeve with dark trim.",
+      "image_direction": "Clean cartoon hand pointing right, wearing a white crisp chef coat cuff, true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "37558",
+          "concept": "Chef Sleeve Pointing Hand",
+          "image_direction": "Stylized pointing hand with a white roll-up chef cuff, true transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "cta_button",
+      "concept": "Glossy red lacquer dining tray pill button with golden border.",
+      "image_direction": "Wide horizontal pill button rendered as polished red lacquerware tray with soft gold outer lip, true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "42896",
+          "concept": "Red Lacquer CTA Pill",
+          "image_direction": "Wide horizontal glossy red pill button with subtle golden edge glow, true transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "game_logo",
+      "concept": "Royal Kingdom game badge rendered on a Japanese wooden temple sign with golden lettering.",
+      "image_direction": "Glossy 3D badge with crisp readable text ROYAL KINGDOM in gold lettering over red lacquer background, true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "43456",
+          "concept": "Royal Kingdom Japanese Crest Badge",
+          "image_direction": "Glossy royal crest badge displaying readable gold text ROYAL KINGDOM, framed in carved dark wood, true transparent alpha background."
+        }
+      ]
+    }
+  ]
+}

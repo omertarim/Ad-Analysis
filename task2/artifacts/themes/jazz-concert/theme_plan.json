@@ -1,0 +1,165 @@
+{
+  "theme": "jazz-concert",
+  "visual_thesis": "A midnight smoky jazz club aesthetic featuring brass instruments, neon glow, velvet textures, and bold musical motifs.",
+  "art_style": "Glossy 3D casual mobile style with rich polished brass, vibrant neon accents, and dark velvet backdrop textures.",
+  "palette": [
+    "#1A0B2E",
+    "#FFB800",
+    "#D01A67",
+    "#00F0FF",
+    "#8B00FF",
+    "#3A0066"
+  ],
+  "banner": {
+    "text": "Keep The Groove Alive!",
+    "text_color": "#FFB800",
+    "background_color": "#1A0B2E"
+  },
+  "overrides": {
+    "soil_color": "#1A0B2E",
+    "separator_wall_color": "#8B00FF",
+    "rock_colors": [
+      "#FFB800",
+      "#D01A67",
+      "#00F0FF",
+      "#8B00FF"
+    ]
+  },
+  "roles": [
+    {
+      "role_id": "match3_tiles",
+      "concept": "Vibrant jazz instruments and musical elements crafted into glossy 3D icons.",
+      "image_direction": "3D rendered stylized jazz icons on true transparent alpha background with bright glossy reflections and glowing accents.",
+      "assets": [
+        {
+          "asset_id": "40474",
+          "concept": "A polished brass saxophone icon.",
+          "image_direction": "Glossy 3D golden saxophone icon, front view, vibrant metallic shine, true transparent alpha background."
+        },
+        {
+          "asset_id": "40296",
+          "concept": "A glowing crimson trumpet icon.",
+          "image_direction": "Glossy 3D crimson red metallic trumpet icon, bold curves, shiny finish, true transparent alpha background."
+        },
+        {
+          "asset_id": "41918",
+          "concept": "A shiny golden studio microphone icon.",
+          "image_direction": "Glossy 3D classic vintage gold microphone icon on a stand, studio lighting, true transparent alpha background."
+        },
+        {
+          "asset_id": "41826",
+          "concept": "A deep purple vinyl record icon.",
+          "image_direction": "Glossy 3D deep purple vinyl record with golden center label, shiny grooves, true transparent alpha background."
+        },
+        {
+          "asset_id": "43332",
+          "concept": "An emerald green bass clef icon.",
+          "image_direction": "Glossy 3D emerald green bass clef icon with neon bevel edges, polished finish, true transparent alpha background."
+        },
+        {
+          "asset_id": "43744",
+          "concept": "A bright magenta eighth note pair icon.",
+          "image_direction": "Glossy 3D bright pink musical eighth notes icon, rounded plastic sheen, true transparent alpha background."
+        },
+        {
+          "asset_id": "39144",
+          "concept": "A golden treble clef icon.",
+          "image_direction": "Glossy 3D elegant golden treble clef icon, sleek curves, sparkling highlights, true transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "falling_rocks",
+      "concept": "Chunky round snare drums made of polished brass and mahogany.",
+      "image_direction": "Glossy 3D heavy round golden snare drum, chunky spherical footprint, polished brass and wood texture, true transparent alpha background.",
+      "assets": []
+    },
+    {
+      "role_id": "snake",
+      "concept": "A stylized brass trombone serpent threat.",
+      "image_direction": "Glossy 3D metallic serpent with neon music note scales threat creature, centered in frame, true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "37148",
+          "concept": "Snake head styled like a flared brass trombone bell with glowing purple eyes.",
+          "image_direction": "Top-down glossy 3D stylized snake head styled like a flared brass trombone with glowing purple eyes, centered in frame, true transparent alpha background."
+        },
+        {
+          "asset_id": "37150",
+          "concept": "Snake head variant with saxophone key ridges.",
+          "image_direction": "Top-down glossy 3D metallic snake head with brass key ornaments and cyan glowing mouth, centered in frame, true transparent alpha background."
+        },
+        {
+          "asset_id": "37152",
+          "concept": "Snake head variant with trumpet mouthpiece crown.",
+          "image_direction": "Top-down glossy 3D brass snake head with golden crest, centered in frame, true transparent alpha background."
+        },
+        {
+          "asset_id": "37146",
+          "concept": "Snake body scales with vinyl record texture and gold trim.",
+          "image_direction": "Seamless repeating texture of dark purple vinyl record scales with brass trim highlights, true transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "wall_texture",
+      "concept": "Smoky dark purple brick wall texture from an intimate jazz club.",
+      "image_direction": "Seamless full-bleed texture of dark violet smoky brickwork with subtle blue rim lighting, low visual noise, clean background texture.",
+      "assets": [
+        {
+          "asset_id": "37162",
+          "concept": "Smoky dark purple brick wall texture from an intimate jazz club.",
+          "image_direction": "Seamless full-bleed texture of dark violet smoky brickwork with subtle blue rim lighting, low visual noise, clean background texture."
+        }
+      ]
+    },
+    {
+      "role_id": "spike",
+      "concept": "A slender brass and ebony double bass neck.",
+      "image_direction": "Vertical tall thin brass and ebony double bass neck pin, straight vertical capsule silhouette, isolated on true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "37170",
+          "concept": "A slender brass and ebony double bass neck.",
+          "image_direction": "Vertical tall thin brass and ebony double bass neck pin, straight vertical capsule silhouette, isolated on true transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "tutorial_hand",
+      "concept": "A white performer glove with a sleek gold wrist cuff pointing.",
+      "image_direction": "Stylized 3D pointing hand wearing a white jazz performer glove with a shiny brass cuff, true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "37558",
+          "concept": "A white performer glove with a sleek gold wrist cuff pointing.",
+          "image_direction": "Stylized 3D pointing hand wearing a white jazz performer glove with a shiny brass cuff, true transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "cta_button",
+      "concept": "A neon-bordered dark violet pill button with glowing brass trim.",
+      "image_direction": "Wide rounded pill CTA button frame in deep violet with vibrant golden neon border lighting and glossy sheen, isolated on true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "42896",
+          "concept": "A neon-bordered dark violet pill button with glowing brass trim.",
+          "image_direction": "Wide rounded pill CTA button frame in deep violet with vibrant golden neon border lighting and glossy sheen, isolated on true transparent alpha background."
+        }
+      ]
+    },
+    {
+      "role_id": "game_logo",
+      "concept": "Royal Kingdom logo badge styled like a marquee sign.",
+      "image_direction": "Glossy 3D Royal Kingdom game logo badge with brass frame and glowing cyan and gold typography reading ROYAL KINGDOM, true transparent alpha background.",
+      "assets": [
+        {
+          "asset_id": "43456",
+          "concept": "Royal Kingdom logo badge styled like a marquee sign.",
+          "image_direction": "Glossy 3D Royal Kingdom game logo badge with brass frame and glowing cyan and gold typography reading ROYAL KINGDOM, true transparent alpha background."
+        }
+      ]
+    }
+  ]
+}
